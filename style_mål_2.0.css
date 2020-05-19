@@ -4,4 +4,7 @@ ul {
 
 li:before {
   content: "*"
+  position: relative;
+  left: -15px;
+  bottom: -3px;
 }
