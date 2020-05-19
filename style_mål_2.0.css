@@ -4,6 +4,4 @@ ul {
 
 li:before {
   content: "*"
-  left: -15px;
-  bottom: -3px;
 }
