@@ -2,9 +2,13 @@ body {
   font-family: "Railway", sans-serif;
 }
 
-h1, h2 {
+h1 {
   text-align: center;
-  font family: "Bitter", sans-serif;
+  font-family: "Bitter", sans-serif;
+}
+
+h2 {
+  font-family: "Bitter", sans-serif;
 }
 
 .bold {
