@@ -11,6 +11,11 @@ h2 {
   font-family: "Bree Serif", sans-serif;
 }
 
+.bold {
+  font-family: "Bree Serif", sans-serif;
+  text-type: bold;
+}
+
 table {
   border-collapse: collapse;
 }
