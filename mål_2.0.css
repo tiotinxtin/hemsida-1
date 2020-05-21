@@ -2,14 +2,13 @@ body {
   font-family: "Railway", sans-serif;
 }
 
-
-h2 {
-  font-family: "Bitter", sans-serif;
+h1, h2 {
+  text-align: center;
+  font family: "Bitter", sans-serif;
 }
 
 .bold {
   font-family: "Bitter", sans-serif;
-  text-type: bold;
 }
 
 table {
