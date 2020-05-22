@@ -13,8 +13,8 @@ h2 {
 }
 
 .bold {
+  font-weight: 700;
   font-family: "Roboto Slab", serif;
-  font-style: bold;
 }
 
 table, th, td {
