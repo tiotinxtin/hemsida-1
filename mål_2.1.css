@@ -18,6 +18,17 @@ table, td {
 }
 
 .mål {
-  font-weight: 500;
   background: aquamarine;
+}
+
+.deadline {
+  background: aqua;
+}
+
+.substantiv {
+  background: lime;
+}
+
+.min {
+  background: springgreen;
 }
