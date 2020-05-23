@@ -22,13 +22,13 @@ table, td {
 }
 
 .deadline {
-  background: aqua;
+  font-weight: 500;
 }
 
 .substantiv {
-  background: lime;
+  background: aquamarine;
 }
 
 .min {
-  background: springgreen;
+  font-weight: 500;
 }
