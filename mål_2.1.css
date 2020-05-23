@@ -15,7 +15,9 @@ h2 {
 
 table, td {
   border-collapse: collapse;
-  border: 1px solid aquamarine;
+  background: black;
+  border: 2px solid white;
+  
 }
 
 .mål {
