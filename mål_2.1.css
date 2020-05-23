@@ -25,12 +25,14 @@ details {
 }
 
 summary {
-  list-style-image: url(right-arrow.svg);
+  list-style-image: url(./transparent-icon.png);
 }
 
 summary::-webkit-details-marker {
-  background: url(right-arrow.svg);
+  background: url(./transparent-icon.png);
   color: transparent;
+  height: 1px;
+  width: 1px;
 }
 
 table, td {
