@@ -5,9 +5,10 @@ body {
 }
 
 h1 {
-  color: aquamarine;
   text-align: center;
   font weight: 700;
+  text-decoration: 1px solid aquamarine underline;
+  
 }
 
 h2 {
