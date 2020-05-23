@@ -19,7 +19,6 @@ details {
   margin-right: auto;
   background: white;
   width: 80%;
-  box-shadow: 5px, 5px, 10px, 2px, grey; 
 }
 
 table, td {
@@ -46,4 +45,8 @@ table, td {
 
 .asterix {
   font-weight: 100;
+}
+
+#muskulös {
+  box-shadow: 5px, 5px, 10px, 2px, grey; 
 }
