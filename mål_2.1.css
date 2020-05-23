@@ -17,6 +17,6 @@ table, td {
   border: 1px solid black;
 }
 
-.bold {
-  font-weight: 500;
+.mål {
+  background: lightskyblue;
 }
