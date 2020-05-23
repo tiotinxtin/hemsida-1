@@ -1,4 +1,5 @@
 body {
+  background: rgb(242, 255, 251);
   font-weight: 300;
   font-family: "Roboto", sans-serif;
   line-height: 150%;
@@ -13,10 +14,6 @@ h2 {
   font weight: 700;
 }
 
-details {
-  background: rgb(212, 255, 240);
-}
-
 table, td {
   border-collapse: collapse;
   border: 1px solid black;
@@ -24,17 +21,17 @@ table, td {
 }
 
 .mål {
-  background: white;
+  background: aquamarine;
 }
 
 .deadline {
-  border: 2px solid white;
+  border: 2px solid aquamarine;
 }
 
 .substantiv {
-  background: white;
+  background: aquamarine;
 }
 
 .min {
-  border: 2px solid white;
+  border: 2px solid aquamarine;
 }
