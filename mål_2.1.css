@@ -24,8 +24,9 @@ details {
   box-shadow: 4px 4px 10px 3px grey;
 }
 
-summary::-webkit-details-marker {
-    display: none;
+summary {
+  list-style: none;
+}
 
 table, td {
   border-collapse: collapse;
