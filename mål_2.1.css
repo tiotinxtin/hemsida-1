@@ -15,8 +15,10 @@ h2 {
 }
 
 details {
+  margin-left: auto;
+  margin-raight: auto;
   background: white;
-  width: 50%;
+  width: 75%;
 }
 
 table, td {
