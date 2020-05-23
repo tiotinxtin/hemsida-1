@@ -39,3 +39,7 @@ table, td {
 .min {
   border: 2px solid aquamarine;
 }
+
+.asterix {
+  font-weight: 100;
+}
