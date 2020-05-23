@@ -13,11 +13,13 @@ h2 {
   font weight: 700;
 }
 
+details {
+  background: aquamarine;
+}
+
 table, td {
   border-collapse: collapse;
-  color: white;
-  background: black;
-  border: 2px solid white;
+  border: 1px solid black;
   
 }
 
