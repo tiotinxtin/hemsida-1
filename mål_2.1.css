@@ -22,7 +22,7 @@ table, td {
 }
 
 .deadline {
-  font-weight: 500;
+  border: 1px solid aquamarine;
 }
 
 .substantiv {
