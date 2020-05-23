@@ -11,3 +11,12 @@ h1 {
 h2 {
   font weight: 700;
 }
+
+table, td {
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+
+.bold {
+  font-weight: 500;
+}
