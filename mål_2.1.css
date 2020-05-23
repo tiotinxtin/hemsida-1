@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(to left(aquamarine, white));
+  background: linear-gradient(to left, aquamarine, white);
   font-weight: 300;
   font-family: "Roboto", sans-serif;
   line-height: 150%;
