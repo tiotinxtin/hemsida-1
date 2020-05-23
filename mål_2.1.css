@@ -19,11 +19,7 @@ details {
   margin-right: auto;
   background: white;
   width: 80%;
-  box-shadow: 5px 5px 10px 3px grey;
-}
-
-details {
-  
+  box-shadow: 4px 4px 10px 3px grey;
 }
 
 table, td {
