@@ -19,7 +19,8 @@ details {
   margin-right: auto;
   background: white;
   width: 80%;
-  border-radius: 25px;
+  border-radius: 20px;
+  padding: 10px;
   box-shadow: 4px 4px 10px 3px grey;
 }
 
