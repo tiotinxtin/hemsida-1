@@ -23,7 +23,6 @@ table, td {
 }
 
 .deadline {
-  font-weight: 500;
   border: 2px solid aquamarine;
 }
 
@@ -32,6 +31,5 @@ table, td {
 }
 
 .min {
-  font-weight: 500;
   border: 2px solid aquamarine;
 }
