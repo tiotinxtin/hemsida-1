@@ -24,13 +24,18 @@ details {
   box-shadow: 4px 4px 10px 3px grey;
 }
 
-details > summary::-webkit-details-marker {
-  display: none;
+summary {
+  list-style-image: url(right-arrow.svg);
+}
+
+summary::-webkit-details-marker {
+  background: url(right-arrow.svg);
+  color: transparent;
+}
 
 table, td {
   border-collapse: collapse;
   border: 1px solid black;
-  
 }
 
 .mål {
