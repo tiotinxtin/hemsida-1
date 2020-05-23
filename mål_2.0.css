@@ -1,7 +1,7 @@
 body {
   font-weight: 300;
   font-family: "Roboto", sans-serif;
-  background: linear-gradient(to left, rgb(230, 255, 247), rgba(230, 255, 247, 0))
+  background: linear-gradient(to left, rgb(230, 255, 247), rgba(230, 255, 247, 0));
 }
 
 table, th, td {
