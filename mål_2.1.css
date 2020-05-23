@@ -18,5 +18,6 @@ table, td {
 }
 
 .mål {
-  background: lightskyblue;
+  font-weight: 500;
+  background: aquamarine;
 }
