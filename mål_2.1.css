@@ -54,15 +54,15 @@ input[type=checkbox] {
 }
 
 input[type=checkbox] + label {
-  height: 7px;
-  width: 7px;
+  height: 16px;
+  width: 16px;
   display: inline-block;
   background: url(https://img.icons8.com/nolan/64/unchecked-checkbox.png);
 }
 
 input[type=checkbox]:checked + label {
-  height: 7px;
-  width: 7px;
+  height: 16px;
+  width: 16px;
   background: url(https://img.icons8.com/nolan/64/checked-checkbox.png)
 }
 
