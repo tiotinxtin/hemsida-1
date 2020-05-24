@@ -43,9 +43,9 @@ details:hover{
 
 @keyframes flyger {
   0% {top: 0px;}
-  0% {padding: .25em .75em;}
+  0% {scale: 1;}
   100% {top: -15px;}
-  100% {padding: .3em .8em;}
+  100% {scale: 1,1;}
 }  
 
 summary::-webkit-details-marker {
