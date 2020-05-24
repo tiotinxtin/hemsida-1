@@ -33,12 +33,12 @@ details:hover{
   position: relative;
   animation-name: flyger;
   animation-duration: .4s;
-  top: -200px;
+  top: -20px;
 }
 
 @keyframes flyger {
   0% {top: 0px;}
-  100% {top: -200px;}
+  100% {top: -20px;}
 }  
 
 .mål {
