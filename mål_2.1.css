@@ -22,12 +22,12 @@ details {
   border-radius: 20px;
   padding: 10px;
   box-shadow: 2px 2px 10px 1px grey;
-  transition: 0,5s;
+  animation-name: flyger;
+  animation-duration: 0,5s;
 }
 
-details:hover {
-  box-shadow: 2px 2px 20px 1px grey;
-  move-up: -2px
+@keyframes flyger:hover {
+  100% {top 10px}
 }
 
 summary {
