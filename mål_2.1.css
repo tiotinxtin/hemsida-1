@@ -45,7 +45,7 @@ details:hover{
   0% {top: 0px;}
   0% {scale: 1;}
   100% {top: -15px;}
-  100% {scale: 1,1;}
+  100% {scale: 1,5;}
 }  
 
 summary::-webkit-details-marker {
