@@ -49,11 +49,16 @@ summary::-webkit-details-marker {
   display: none;
 }
 
-.box-dag:before {
+input[type=checkbox] {
+  display: none;
+}
+
+input[type=checkbox] + label {
+  display: inline-block;
   background: url(https://img.icons8.com/nolan/64/unchecked-checkbox.png);
 }
 
-.box-dag:checked:before {
+input[type=checkbox]:checked + label {
   background: url(https://img.icons8.com/nolan/64/checked-checkbox.png)
 }
 
