@@ -49,8 +49,12 @@ summary::-webkit-details-marker {
   display: none;
 }
 
-.box-dag {
-  color: blue;
+.box-dag:before {
+  background: url(https://img.icons8.com/nolan/64/unchecked-checkbox.png);
+}
+
+.box-dag:checked:before {
+  background: url(https://img.icons8.com/nolan/64/checked-checkbox.png)
 }
 
 .mål {
