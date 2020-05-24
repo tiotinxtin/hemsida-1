@@ -27,10 +27,10 @@ details {
   animation-duration: 10s;
 }
 
-@keyframes flyger {
+@keyframes flyger:hover {
   0% {top:0px;}
-  50% {top:5px;}
-  100% {top:10px;}
+  50% {top:-10px;}
+  100% {top:-20px;}
 }
 
 summary {
