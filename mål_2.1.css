@@ -1,5 +1,4 @@
 body {
-  outline: none;
   background: linear-gradient(to left, rgb(230, 255, 247), rgb(245, 245, 245));
   font-weight: 300;
   font-family: "Roboto", sans-serif;
@@ -20,11 +19,8 @@ table, td {
   border: 1px solid black;
 }
 
-summary::-webkit-details-marker {
-  display: none;
-}
-
 details {
+  outline: none;
   margin-left: auto;
   margin-right: auto;
   background: white;
@@ -45,6 +41,10 @@ details:hover{
   0% {top: 0px;}
   100% {top: -15px;}
 }  
+
+summary::-webkit-details-marker {
+  display: none;
+}
 
 .box-dag {
   color: blue;
