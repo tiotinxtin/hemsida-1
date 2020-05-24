@@ -38,14 +38,14 @@ details:hover{
   animation-name: flyger;
   animation-duration: .4s;
   top: -10px;
-  width: +5px;
+  width: 81.5%;
 }
 
 @keyframes flyger {
   0% {top: 0px;}
   100% {
     top: -10px;
-    width: +5px;
+    width: 81.5%;
   }
 }  
 
