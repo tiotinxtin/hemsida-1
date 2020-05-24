@@ -27,6 +27,7 @@ details {
 
 details:hover {
   box-shadow: 2px 2px 20px 1px grey;
+  move-up: -2px
 }
 
 summary {
