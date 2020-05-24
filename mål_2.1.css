@@ -27,7 +27,7 @@ details {
 }
 
 @keyframes flyger:hover {
-  100% {top 10px}
+  top 10px
 }
 
 summary {
