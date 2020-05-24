@@ -39,7 +39,7 @@ details:hover{
   animation-duration: .4s;
   top: -10px;
   width: 81.5%;
-  box-shadow: 2px 2px 10px 5px grey;
+  box-shadow: 2px 2px 10px 3px grey;
 }
 
 @keyframes flyger {
@@ -47,7 +47,7 @@ details:hover{
   100% {
     top: -10px;
     width: 81.5%;
-    box-shadow: 2px 2px 10px 5px grey;
+    box-shadow: 2px 2px 10px 3px grey;
   }
 }  
 
