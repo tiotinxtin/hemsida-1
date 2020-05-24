@@ -27,13 +27,13 @@ details {
 details:hover{
   position: relative;
   animation-name: flyger;
-  animation-duration: .5s;
-  top: -3px;
+  animation-duration: .4s;
+  top: -2px;
 }
 
 @keyframes flyger {
   0% {top: 0px;}
-  100% {top: -3px;}
+  100% {top: -2px;}
 }
 
 summary {
