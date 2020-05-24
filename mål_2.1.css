@@ -48,6 +48,7 @@ details:hover{
     top: -15px;
     height: 105%;
     width: 90%;
+  }
 }  
 
 summary::-webkit-details-marker {
