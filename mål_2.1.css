@@ -38,12 +38,12 @@ details:hover{
   animation-name: flyger;
   animation-duration: .4s;
   top: -15px;
-  transform: scale(1.1);
+  transform: scale(1.05);
 }
 
 @keyframes flyger {
   0% {top: 0px;}
-  100% {top: -15px; transform: scale(1.1);}
+  100% {top: -15px; transform: scale(1.05);}
 }  
 
 summary::-webkit-details-marker {
