@@ -38,14 +38,14 @@ details:hover{
   animation-name: flyger;
   animation-duration: .4s;
   top: -15px;
-  padding: .3em .8em;
+  scale: 2;
 }
 
 @keyframes flyger {
   0% {top: 0px;}
   0% {scale: 1;}
   100% {top: -15px;}
-  100% {scale: 1,5;}
+  100% {scale: 2;}
 }  
 
 summary::-webkit-details-marker {
