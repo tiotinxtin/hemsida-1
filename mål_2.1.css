@@ -30,7 +30,7 @@ details {
   width: 80%;
   border-radius: 15px;
   padding: .25em .75em;
-  box-shadow: 3px 3px 0px 0pxgrey;
+  box-shadow: 3px 3px 3px 0pxgrey;
 }
 
 details:hover{
