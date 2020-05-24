@@ -37,7 +37,7 @@ details:hover{
   position: relative;
   animation-name: flyger;
   animation-duration: .4s;
-  top: -12px;
+  /*top: -12px;*/
   height: 102%;
   width: 82%;
 }
@@ -45,7 +45,7 @@ details:hover{
 @keyframes flyger {
   0% {top: 0px;}
   100% {
-    top: -12px;
+    /*top: -12px;*/
     height: 102%;
     width: 82%;
   }
