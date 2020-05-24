@@ -38,11 +38,19 @@ details:hover{
 
 @keyframes flyger {
   0% {top: 0px;}
-  50% {top: -1px}
   100% {top: -2px;}
 }
 
+details {
+  position: relative;
+  animation-name: tillbaka;
+  animation-duration: .4s;
+}
 
+@keyframes {
+  0%: {top: -2px;}
+  100%: {top: 0px;}
+}
 
 .mål {
   background: aquamarine;
