@@ -29,18 +29,11 @@ details:hover{
   animation-name: flyger;
   animation-duration: 1s;
   top: -5px;
-  animation-name: tillbaka;
-  animation-duration: 1s;
 }
 
 @keyframes flyger {
   0% {top: 0px;}
   100% {top: -5px;}
-}
-
-@keyframes flyger-tillbaka {
-  o%: {top: -5px;}
-  100%: {top: 0px;}
 }
 
 summary {
