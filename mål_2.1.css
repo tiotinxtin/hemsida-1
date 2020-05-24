@@ -58,6 +58,7 @@ input[type=checkbox] + label {
   width: 16px;
   display: inline-block;
   background: url(https://img.icons8.com/nolan/64/unchecked-checkbox.png);
+  padding: 0 0 0 0px;
 }
 
 input[type=checkbox]:checked + label {
@@ -65,6 +66,7 @@ input[type=checkbox]:checked + label {
   width: 16px;
   display: inline-block;
   background: url(https://img.icons8.com/nolan/64/checked-checkbox.png);
+  padding: 0 0 0 0px;
 }
 
 .mål {
