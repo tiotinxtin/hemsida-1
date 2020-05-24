@@ -38,7 +38,6 @@ details:hover{
   animation-name: flyger;
   animation-duration: .4s;
   top: -10px;
-  height: 102%;
   width: 82%;
 }
 
@@ -46,7 +45,6 @@ details:hover{
   0% {top: 0px;}
   100% {
     top: -10px;
-    height: 102%;
     width: 82%;
   }
 }  
