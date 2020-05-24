@@ -35,7 +35,7 @@ details:hover{
   position: relative;
   animation-name: flyger;
   animation-duration: .4s;
-  animation-fill-mode: forwards;
+  animation-fill-mode: backwards;
 }
 
 @keyframes flyger {
