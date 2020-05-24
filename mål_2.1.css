@@ -47,7 +47,7 @@ details {
   animation-duration: .4s;
 }
 
-@keyframes {
+@keyframes tillbaka{
   0%: {top: -2px;}
   100%: {top: 0px;}
 }
