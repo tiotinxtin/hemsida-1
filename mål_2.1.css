@@ -38,9 +38,9 @@ details:hover{
   100% {top: -5px;}
 }
 
-/*@keyframes flyger-tillbaka {
+@keyframes flyger-tillbaka {
   o%: {top: -5px;}
-  100%: {top: 0px;}*/
+  100%: {top: 0px;}
 }
 
 summary {
