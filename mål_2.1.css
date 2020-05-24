@@ -1,3 +1,7 @@
+*:focus {
+  outline: none;
+}
+
 body {
   background: linear-gradient(to left, rgb(230, 255, 247), rgb(245, 245, 245));
   font-weight: 300;
@@ -20,7 +24,6 @@ table, td {
 }
 
 details {
-  outline: none;
   margin-left: auto;
   margin-right: auto;
   background: white;
