@@ -19,6 +19,10 @@ table, td {
   border: 1px solid black;
 }
 
+summary::-webkit-details-marker {
+  display: none;
+}
+
 details {
   margin-left: auto;
   margin-right: auto;
@@ -33,12 +37,12 @@ details:hover{
   position: relative;
   animation-name: flyger;
   animation-duration: .4s;
-  top: -20px;
+  top: -15px;
 }
 
 @keyframes flyger {
   0% {top: 0px;}
-  100% {top: -20px;}
+  100% {top: -15px;}
 }  
 
 .mål {
