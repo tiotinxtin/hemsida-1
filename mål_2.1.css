@@ -24,7 +24,7 @@ details {
   margin-right: auto;
   background: white;
   width: 80%;
-  border-radius: 20px;
+  border-radius: 15px;
   padding: 10px;
   box-shadow: 2px 2px 10px 1px grey;
 }
@@ -33,7 +33,7 @@ details:hover{
   position: relative;
   animation-name: flyger;
   animation-duration: .4s;
-  animation-direction: alternate;
+  top: 0px;
 }
 
 @keyframes flyger {
