@@ -27,7 +27,7 @@ details {
 details:hover{
   position: relative;
   animation-name: flyger;
-  animation-duration: 1s;
+  animation-duration: .5s;
   top: -5px;
 }
 
