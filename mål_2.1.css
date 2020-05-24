@@ -1,4 +1,5 @@
 body {
+  outline: none;
   background: linear-gradient(to left, rgb(230, 255, 247), rgb(245, 245, 245));
   font-weight: 300;
   font-family: "Roboto", sans-serif;
@@ -44,6 +45,10 @@ details:hover{
   0% {top: 0px;}
   100% {top: -15px;}
 }  
+
+.box-dag {
+  color: blue;
+}
 
 .mål {
   background: aquamarine;
