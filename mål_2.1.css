@@ -39,7 +39,7 @@ details:hover{
 
 @keyframes flyger-tillbaka {
   o%: {top: -5px;}
-  100%: {top; 0px;}
+  100%: {top: 0px;}
 }
 
 summary {
