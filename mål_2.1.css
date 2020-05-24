@@ -63,7 +63,8 @@ input[type=checkbox] + label {
 input[type=checkbox]:checked + label {
   height: 16px;
   width: 16px;
-  background: url(https://img.icons8.com/nolan/64/checked-checkbox.png)
+  display: inline-block;
+  background: url(https://img.icons8.com/nolan/64/checked-checkbox.png);
 }
 
 .mål {
