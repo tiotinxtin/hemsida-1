@@ -25,7 +25,8 @@ details {
 }
 
 details:hover {
-  box-shadow: 5px 5px 10px 1px grey;
+  box-shadow: 2px 2px 20px 1px grey;
+  transition: 0,3s;
 }
 
 summary {
