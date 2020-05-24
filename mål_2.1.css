@@ -33,8 +33,7 @@ details:hover{
   position: relative;
   animation-name: flyger;
   animation-duration: .4s;
-  animation-iteration-count: 2;
-  animation-direction: alternate;
+  top: -2px;
 }
 
 @keyframes flyger {
