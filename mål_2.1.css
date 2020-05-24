@@ -29,7 +29,6 @@ details:hover{
   animation-name: flyger;
   animation-duration: 1s;
   animation-direction: alternate;
-  top: -5px;
 }
 
 @keyframes flyger {
