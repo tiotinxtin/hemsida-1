@@ -3,7 +3,7 @@
 }
 
 body {
-  background: linear-gradient(to left, rgb(230, 255, 247), rgb(245, 245, 245));
+  background: rgb(230, 255, 247);
   font-weight: 300;
   font-family: "Roboto", sans-serif;
   line-height: 150%;
