@@ -24,6 +24,10 @@ table, td {
   padding: 2px;
 }
 
+label {
+  border: 2px 0px 2px 0px solid aquamarine;
+}
+
 details {
   margin-left: auto;
   margin-right: auto;
