@@ -56,12 +56,6 @@ summary::-webkit-details-marker {
   display: none;
 }
 
-.text-dag {
-  padding: 1px;
-  border-left: 2px solid aquamarine;
-  border-bottom: 2px solid aquamarine;
-}
-
 .mål {
   background: aquamarine;
 }
