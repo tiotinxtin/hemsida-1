@@ -61,6 +61,7 @@ summary::-webkit-details-marker {
 }
 
 .deadline {
+  padding: 1px;
   border: 2px solid aquamarine;
 }
 
@@ -69,10 +70,12 @@ summary::-webkit-details-marker {
 }
 
 .intervall {
+  padding: 1px;
   border: 2px solid aquamarine;
 }
 
 .belöning {
+  padding: 1px;
   border: 2px solid aquamarine;
 }
 
