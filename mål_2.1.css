@@ -72,6 +72,11 @@ summary::-webkit-details-marker {
   border: 2px solid aquamarine;
 }
 
+.belöning {
+  text-decoration: underline;
+  text-decoration-color: aquamarine;
+}
+
 .asterix {
   font-weight: 100;
 }
