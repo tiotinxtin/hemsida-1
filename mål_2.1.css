@@ -10,12 +10,12 @@ body {
 }
 
 h1 {
-  border: 2px 0px solid aquamarine;
   text-align: center;
   font weight: 700;
 }
 
 h2 {
+  border-bottom: 2px solid black;
   font weight: 700;
 }
 
