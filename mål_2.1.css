@@ -10,6 +10,7 @@ body {
 }
 
 h1 {
+  border: 2px 0px solid aquamarine;
   text-align: center;
   font weight: 700;
 }
@@ -54,10 +55,6 @@ details:hover{
 
 summary::-webkit-details-marker {
   display: none;
-}
-
-h2 {
-  border: 2px 0px solid aquamarine;
 }
 
 .mål {
