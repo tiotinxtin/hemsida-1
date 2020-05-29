@@ -56,6 +56,10 @@ summary::-webkit-details-marker {
   display: none;
 }
 
+.rubrik {
+  font-weight: 500;
+}
+
 .mål {
   background: aquamarine;
 }
