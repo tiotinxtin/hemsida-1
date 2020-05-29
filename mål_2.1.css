@@ -15,7 +15,6 @@ h1 {
 }
 
 h2 {
-  border: 2px 0px 2px 0px solid black;
   font weight: 700;
 }
 
@@ -55,6 +54,11 @@ details:hover{
 
 summary::-webkit-details-marker {
   display: none;
+}
+
+.text-dag {
+  border-bottom: 2px solid aquamarine;
+  border-top: 2px solid aquamarine;
 }
 
 .mål {
