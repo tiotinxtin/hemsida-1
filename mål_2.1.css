@@ -57,7 +57,7 @@ summary::-webkit-details-marker {
   display: none;
 }
 
-input, label {
+label, input {
   float: right;
 }
 
