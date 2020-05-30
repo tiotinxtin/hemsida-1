@@ -19,6 +19,14 @@ h2 {
   display: inline-block;
 }
 
+input {
+  margin-left: 30%;
+}
+
+label {
+  margin-right: 20%;
+}
+
 table, td {
   border-collapse: collapse;
   border: 1px solid black;
@@ -55,11 +63,6 @@ details:hover{
 
 summary::-webkit-details-marker {
   display: none;
-}
-
-input, label {
-  margin-left: 40%;
-  margin-right: 20%;
 }
 
 .rubrik {
