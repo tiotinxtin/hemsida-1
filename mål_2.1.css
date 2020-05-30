@@ -56,6 +56,10 @@ summary::-webkit-details-marker {
   display: none;
 }
 
+input, label {
+  float: right;
+}
+
 .rubrik {
   font-weight: 500;
 }
