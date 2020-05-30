@@ -16,7 +16,7 @@ h1 {
 
 h2 {
   font weight: 700;
-  display: inline;
+  display: inline-block;
 }
 
 table, td {
