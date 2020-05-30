@@ -58,7 +58,8 @@ summary::-webkit-details-marker {
 }
 
 input, label {
-  text-indent: 80%;
+  margin-left: 65%;
+  margin-right: 35%;
 }
 
 .rubrik {
