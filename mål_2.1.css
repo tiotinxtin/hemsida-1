@@ -61,14 +61,6 @@ summary::-webkit-details-marker {
   font-weight: 500;
 }
 
-#check-träna {
-  margin-left: 30%;
-}
-
-#check-sova {
-  margin-left: 35%;
-}
-
 .mål {
   background: aquamarine;
 }
@@ -94,4 +86,12 @@ summary::-webkit-details-marker {
 
 .asterix {
   font-weight: 100;
+}
+
+#check-träna {
+  margin-left: 30%;
+}
+
+#check-sova {
+  margin-left: 35%;
 }
