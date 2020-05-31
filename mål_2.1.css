@@ -23,10 +23,6 @@ input {
   margin-left: 30%;
 }
 
-label {
-  margin-right: 20%;
-}
-
 table, td {
   border-collapse: collapse;
   border: 1px solid black;
