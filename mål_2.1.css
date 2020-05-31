@@ -19,10 +19,6 @@ h2 {
   display: inline-block;
 }
 
-input {
-  margin-left: 30%;
-}
-
 table, td {
   border-collapse: collapse;
   border: 1px solid black;
@@ -63,6 +59,14 @@ summary::-webkit-details-marker {
 
 .rubrik {
   font-weight: 500;
+}
+
+#check-träna {
+  margin-left: 30%;
+}
+
+#check-sova {
+  margin-left: 35%;
 }
 
 .mål {
