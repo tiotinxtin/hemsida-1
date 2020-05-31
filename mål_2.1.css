@@ -89,10 +89,8 @@ summary::-webkit-details-marker {
 }
 
 #check-träna {
-  margin-top: 0.83em; 
-  margin-bottom: 0.83em; 
-  margin-left: 0; 
-  margin-right: 0;
+  margin-top: 1.83em; 
+  margin-bottom: 1.83em; 
   float: right;
   margin-right: 30%;
 }
