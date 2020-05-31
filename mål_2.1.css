@@ -89,9 +89,11 @@ summary::-webkit-details-marker {
 }
 
 #check-träna {
+  float: right;
   margin-right: 12%;
 }
 
 #check-sova {
+  float: right;
   margin-right: 12%;
 }
