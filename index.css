@@ -28,3 +28,7 @@ button {
   display: block;
   margin: 10px auto;
 }
+
+input, button:hover {
+  border: 1px solid darkgray;
+}
