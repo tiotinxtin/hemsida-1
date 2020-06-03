@@ -4,13 +4,10 @@
 
 body {
   background: url(https://artzstudiotx.com/wp-content/uploads/2019/03/glow2.jpg);/*rgb(230, 255, 247);*/
+  background-size: 50vw;
   font-weight: 300;
   font-family: "Roboto", sans-serif;
   color: white;
-}
-
-img {
-  width: 50vw;
 }
 
 h1 {
