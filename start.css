@@ -4,7 +4,7 @@
 
 body {
   background: url(https://artzstudiotx.com/wp-content/uploads/2019/03/glow2.jpg);/*rgb(230, 255, 247);*/
-  background-repeat: round;
+  background-size: cover;
   font-weight: 300;
   font-family: "Roboto", sans-serif;
   color: white;
