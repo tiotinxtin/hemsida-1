@@ -14,7 +14,7 @@ h1 {
 }
 
 input {
-  padding: 1px;
+  padding: 2px;
   border: 1px solid darkgray;
   background: white;
   border-radius: 5px;
@@ -23,7 +23,7 @@ input {
 }
 
 button {
-  padding: 1px;
+  padding: 2px;
   border: 1px solid darkgray;
   background: white;
   border-radius: 5px;
