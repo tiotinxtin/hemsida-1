@@ -1,0 +1,23 @@
+body {
+  background: rgb(230, 255, 247);
+  font-weight: 300;
+  font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 700;
+}
+
+button {
+  padding: 2px 5px;
+  border: 1px solid darkgray;
+  background: linear-gradient(to bottom, rgb(250, 250, 250), rgb(225, 225, 225));
+  border-radius: 10px;
+  display: block;
+  margin: 10px auto;
+}
+
+button:hover {
+  border: 1px solid dimgray;
+}
