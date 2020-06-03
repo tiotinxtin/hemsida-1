@@ -25,7 +25,3 @@ input {
 input:hover {
   border: 1px solid dimgray;
 }
-
-button:hover {
-  border: 1px solid dimgray;
-}
