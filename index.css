@@ -17,7 +17,7 @@ input {
   padding: 2px;
   border: 1px solid darkgray;
   background: linear-gradient(to bottom, rgb(250, 250, 250), rgb(225, 225, 225));
-  border-radius: 5px;
+  border-radius: 10px;
   display: block;
   margin: 10px auto;
 }
