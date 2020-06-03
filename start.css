@@ -14,7 +14,7 @@ h1 {
 }
 
 button {
-  padding: 3px 8px;
+  padding: 2px 8px;
   border: 1px solid darkgray;
   background: linear-gradient(to bottom, rgb(250, 250, 250), rgb(225, 225, 225));
   border-radius: 15px;
