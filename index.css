@@ -22,15 +22,6 @@ input {
   margin: 10px auto;
 }
 
-button {
-  padding: 2px;
-  border: 1px solid darkgray;
-  background: whitesmoke;
-  border-radius: 5px;
-  display: block;
-  margin: 10px auto;
-}
-
 input:hover {
   border: 1px solid dimgray;
 }
