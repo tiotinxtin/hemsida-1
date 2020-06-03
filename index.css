@@ -14,7 +14,7 @@ h1 {
 }
 
 input {
-  border: 1px solid gray;
+  border: 1px solid darkgray;
   background: white;
   border-radius: 5px;
   display: block;
@@ -22,7 +22,7 @@ input {
 }
 
 button {
-  border: 1px solid gray;
+  border: 1px solid darkgray;
   background: white;
   border-radius: 5px;
   display: block;
