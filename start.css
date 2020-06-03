@@ -6,7 +6,7 @@ body {
   background: black;/*rgb(230, 255, 247);*/
   font-weight: 300;
   font-family: "Roboto", sans-serif;
-  text-color: white;
+  color: white;
 }
 
 h1 {
@@ -15,7 +15,7 @@ h1 {
 }
 
 button {
-  text-colour: black;
+  colour: black;
   padding: 2px 10px;
   border: 1px solid darkgray;
   background: white;/*linear-gradient(to bottom, rgb(250, 250, 250), rgb(225, 225, 225));*/
