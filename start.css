@@ -22,4 +22,5 @@ button {
 
 button:hover {
   border: 1px solid dimgray;
+  font-weight: 500;
 }
