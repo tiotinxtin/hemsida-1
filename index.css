@@ -1,5 +1,4 @@
 *:focus {
-  -webkit-appearance: none;
   outline: none;
 }
 
@@ -15,12 +14,14 @@ h1 {
 }
 
 input {
+  -webkit-appearance: none;
   border-radius: 5px;
   display: block;
   margin: 10px auto;
 }
 
 button {
+  -webkit-appearance: none;
   border-radius: 5px;
   display: block;
   margin: 10px auto;
