@@ -15,7 +15,7 @@ h1 {
 
 input {
   padding: 2px;
-  border: 0px;
+  border: 1px solid darkgray;
   background: linear-gradient(to bottom, whitesmoke, rgb(230, 230, 230));
   border-radius: 5px;
   display: block;
