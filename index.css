@@ -29,6 +29,10 @@ button {
   margin: 10px auto;
 }
 
-input, button:hover {
+input:hover {
+  border: 1px solid darkgray;
+}
+
+button:hover {
   border: 1px solid darkgray;
 }
