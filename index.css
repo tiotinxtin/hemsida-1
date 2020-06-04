@@ -29,6 +29,10 @@ input[type="password"]:hover {
 }
 
 input[type="submit"]:hover {
+  border: 1px solid springgreen;
+}
+
+input[type="submit"]:hover {
   box-shadow: 3px 3px 10px 0px springgreen;
 }
 
