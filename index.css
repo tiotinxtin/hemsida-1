@@ -15,7 +15,6 @@ h1 {
 }
 
 input {
-  color: white;
   padding: 2px 5px;
   border: 1px solid white;/*darkgray;*/
   background: transparent;/*linear-gradient(to bottom, rgb(250, 250, 250), rgb(225, 225, 225));*/
@@ -25,10 +24,13 @@ input {
 }
 
 input[type=password] {
-  color: white;
   background: transparent;/*linear-gradient(to bottom, white, rgb(250, 250, 250));*/
 }
 
 input:hover {
   border: 1px solid springgreen;/*dimgray;*/
+}
+
+::placeholder {
+  color: white;
 }
