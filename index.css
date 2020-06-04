@@ -22,15 +22,11 @@ input {
 }
 
 input[type="password"]:hover {
-  border: 1px solid slateblue;
+  border: 2px solid slateblue;
 }
 
 input[type="submit"]:hover {
-  border: 1px solid slateblue;
-}
-
-input[type="submit"]:hover {
-  box-shadow: 3px 3px 10px 0px slateblue;
+  border: 2px solid slateblue;
 }
 
 #logga-in {
@@ -40,4 +36,8 @@ input[type="submit"]:hover {
   margin: 50px auto;
   border-radius: 15px;
   box-shadow: 3px 3px 10px 0px gray;
+}
+
+#logga-in:hover {
+  box-shadow: 3px 3px 10px 0px slateblue;
 }
