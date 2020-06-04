@@ -38,6 +38,12 @@ input[type="submit"]:hover {
   box-shadow: 3px 3px 10px 0px gray;
 }
 
+@media (max-width 1125px) {
+  #logga-in{
+  width: 200px;
+  }
+}
+
 #logga-in:hover {
   box-shadow: 3px 3px 10px 0px slateblue;
 }
