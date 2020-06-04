@@ -23,13 +23,18 @@ input {
 }
 
 input[type="password"]:hover {
-  border: 1px solid teal;
+  border: 1px solid slateblue;
 }
 
 input[type="submit"]:hover {
-  border: 1px solid teal;
+  border: 1px solid slateblue;
 }
 
 input[type="submit"]:hover {
-  box-shadow: 3px 3px 10px 0px teal;
+  box-shadow: 3px 3px 10px 0px slateblue;
+}
+
+#logga-in {
+  border-radius: 15px;
+  box-shadow: 3px 3px 10px 0px gray;
 }
