@@ -8,7 +8,7 @@ body {
 }
 
 h1 {
-  color: darkturquoise;
+  color: teal;
   text-align: center;
   font-weight: 700;
 }
@@ -23,13 +23,13 @@ input {
 }
 
 input[type="password"]:hover {
-  border: 1px solid springgreen;
+  border: 1px solid teal;
 }
 
 input[type="submit"]:hover {
-  border: 1px solid springgreen;
+  border: 1px solid teal;
 }
 
 input[type="submit"]:hover {
-  box-shadow: 3px 3px 10px 0px springgreen;
+  box-shadow: 3px 3px 10px 0px teal;
 }
