@@ -35,6 +35,8 @@ input[type="submit"]:hover {
 }
 
 #logga-in {
+  padding: padding: .25em .75em;
+  margin: auto auto;
   border-radius: 15px;
-  box-shadow: 3px 3px 10px 0px gray;
+  box-shadow: 3px 3px 10px 0px slateblue;
 }
