@@ -4,7 +4,7 @@
 
 body {
   background: url(https://9to5mac.com/ios_11_gm_wallpaper_heritage_stripe_black/);/*url(https://artzstudiotx.com/wp-content/uploads/2019/03/glow2.jpg);/*rgb(230, 255, 247);*/
-  background-size: 100vh;
+  background-size: cover;
   color: white;
   font-weight: 300;
   font-family: "Roboto", sans-serif;
