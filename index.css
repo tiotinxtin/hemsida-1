@@ -22,11 +22,11 @@ input {
 }
 
 input[type="password"]:hover {
-  border: 2px solid slateblue;
+  border: 1px solid slateblue;
 }
 
 input[type="submit"]:hover {
-  border: 2px solid slateblue;
+  border: 1px solid slateblue;
 }
 
 #logga-in {
