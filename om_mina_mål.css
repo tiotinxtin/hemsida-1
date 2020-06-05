@@ -9,7 +9,7 @@ h1 {
 }
 
 table {
-  padding: .25em .75em;
+  padding: 5px 5px;
   box-shadow: 0px 0px 10px 0px gray;
   border-radius: 15px;
   overflow: hidden;
