@@ -11,6 +11,7 @@ h1 {
 table {
   border-radius: 5px;
   overflow: hidden;
+  background: gray;
 }
 
 table/*, th, td */{
