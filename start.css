@@ -46,7 +46,9 @@ button:hover {
 }
 
 @media screen and (max-width: 1125px) {
-  width: 80%;
-  margin-right: 10%;
-  margin-left: 10%;
+  #navbar {
+    width: 80%;
+    margin-right: 10%;
+    margin-left: 10%;
+  }
 }  
