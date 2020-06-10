@@ -30,9 +30,9 @@ button:hover {
   background-color: white;
   box-shadow: 0px 0px 10px 0px gray;
   margin-bottom: 20px;
-  width: 40%;
-  margin-right: 30%;
-  margin-left: 30%;
+  width: 30%;
+  margin-right: 35%;
+  margin-left: 35%;
   border-radius: 15px;
   position: fixed;
   bottom: 0;
@@ -44,3 +44,9 @@ button:hover {
   text-decoration: none;
   padding: 15px;
 }
+
+@media screen and (max-width: 1125px) {
+  width: 80%;
+  margin-right: 10%;
+  margin-left: 10%;
+}  
