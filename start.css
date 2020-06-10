@@ -28,8 +28,8 @@ button:hover {
   justify-content: space-evenly;
   background-color: white;
   box-shadow: 0px 0px 10px 0px gray;
-  margin: 5px;
-  border-radius; 15px;
+  margin: 10px;
+  border-radius: 15px;
   position: fixed;
   bottom: 0;
   width: 100%;
