@@ -41,7 +41,7 @@ button:hover {
   text-decoration: none;
 }
 
-@media screen and (max-width:1125px) {
+/*@media screen and (max-width:1125px) {
   #navbar {
     width: 90vw !important;
     margin-bottom: 20px !important;
@@ -49,3 +49,4 @@ button:hover {
     margin-right: auto !important;
   } 
 }
+*/
