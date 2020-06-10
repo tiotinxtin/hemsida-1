@@ -32,7 +32,6 @@ button:hover {
 
 #navbar a {
   justify-content: space-evenly;
-  display: block;
   color: black;
   text-align: center;
   padding: 14px 16px;
