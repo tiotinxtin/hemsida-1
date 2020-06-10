@@ -23,7 +23,7 @@ button:hover {
   border: 1px solid slateblue;
 }
 
-.navbar {
+#navbar {
   overflow: hidden;
   background-color: #333;
   position: fixed;
@@ -31,7 +31,7 @@ button:hover {
   width: 100%;
 }
 
-.navbar a {
+#navbar a {
   float: left;
   display: block;
   color: #f2f2f2;
