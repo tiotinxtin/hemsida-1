@@ -22,3 +22,18 @@ button {
 button:hover {
   border: 1px solid slateblue;
 }
+
+.navbar {
+  box-shadox: 0px 0px 10px 0px gray;
+  border-radius: 15px;
+  position: fixed;
+  bottom: 3px;
+  width: 100%;
+}
+
+.navbar a {
+  justify-content: space-evenly;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+}
