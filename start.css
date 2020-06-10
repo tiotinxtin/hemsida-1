@@ -3,8 +3,6 @@
 }
 
 body {
-  display: flex;
-  justify-content: center;
   font-weight: 300;
   font-family: "Roboto", sans-serif;
 }
@@ -45,9 +43,7 @@ button:hover {
 
 @media screen and (max-width:1125px) {
   #navbar {
-    width: 90% !important;
-    margin-bottom: 20px !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
+    width: 90%;
+    margin-bottom: 20px;
   } 
 }
