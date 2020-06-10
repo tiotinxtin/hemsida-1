@@ -45,5 +45,7 @@ button:hover {
   #navbar {
     width: 90%;
     margin-bottom: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
   } 
 }
