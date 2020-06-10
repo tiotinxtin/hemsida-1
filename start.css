@@ -40,3 +40,10 @@ button:hover {
   padding: 14px 16px;
   text-decoration: none;
 }
+
+@media screen and (max-width:1125px) {
+  #navbar {
+    width: 80vw !important;
+    margin: 0px auto 10px auto !important;
+  } 
+}
