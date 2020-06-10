@@ -3,8 +3,6 @@ body {
   margin-bottom: 30px;
 }
 
-
-
 #navbar {
   display: flex;
   justify-content: space-evenly;
@@ -20,6 +18,7 @@ body {
 }
 
 #navbar a {
+  font-family: "Roboto", sans-serif;
   color: black;
   text-align: center;
   text-decoration: none;
