@@ -24,6 +24,7 @@ button:hover {
 }
 
 #navbar {
+  overflow: hidden;
   display: flex;
   justify-content: space-evenly;
   background-color: white;
