@@ -19,7 +19,7 @@ input {
   border-radius: 15px;
   display: block;
   margin: 10px auto;
-  box-shadow: 0px;
+  box-shadow: 0px 0px transparent;
 }
 
 input[type=password] {
