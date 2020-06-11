@@ -29,6 +29,11 @@ input:hover {
   border: 1px solid slateblue;
 }
 
+input[type=submit]:hover {
+  background: slateblue;
+  color: white;
+}
+
 ::placeholder {
   color: gray;
   font-weight: 100;
