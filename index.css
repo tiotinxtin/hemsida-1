@@ -41,6 +41,7 @@ input[type=submit]:hover {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  transform: translate(50%, 0)
   margin: auto;
   position: fixed;
   top: 30%;
