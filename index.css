@@ -40,7 +40,7 @@ input[type=submit]:hover {
 
 #logga-in {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   align-
   position: absolute;
   top: 35%;
