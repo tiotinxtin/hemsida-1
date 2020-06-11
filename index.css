@@ -5,6 +5,9 @@
 body {
   font-weight: 300;
   font-family: "Roboto", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 h1 {
@@ -40,7 +43,6 @@ input[type=submit]:hover {
 }
 
 #logga-in {
-  margin: auto;
   width: 250px;
   padding-top: 2px;
   padding-bottom: 10px;
