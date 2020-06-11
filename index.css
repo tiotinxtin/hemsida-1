@@ -17,7 +17,6 @@ input {
   border: 1px solid black;
   background: transparent;
   border-radius: 15px;
-  margin: 10px auto;
 }
 
 input[type=password] {
