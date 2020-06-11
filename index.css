@@ -26,13 +26,13 @@ input[type=password] {
   padding: 5px 10px;
 }
 
-input[type="password"]:hover {
+input:hover {
   border: 1px solid slateblue;
 }
 
-input[type="submit"]:hover {
+/*input[type="submit"]:hover {
   border: 1px solid slateblue;
-}
+}*/
 
 ::placeholder {
   color: gray;
