@@ -8,6 +8,7 @@ body {
 }
 
 h1 {
+  text-align: center;
   font-weight: 700;
 }
 
@@ -32,12 +33,12 @@ input[type=submit]:hover {
 }
 
 ::placeholder {
+  text-align: center;
   color: gray;
   font-weight: 100;
 }
 
 #behållare {
-  text-align: center;
   position: fixed;
   top: 0;
   left: 0;
