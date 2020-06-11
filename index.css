@@ -24,11 +24,13 @@ input[type=password] {
   padding: 10px 15px;
 }
 
-input:hover {
+input[type=password]:hover {
   border: 1px solid slateblue;
+  padding: 10px 25px;
 }
 
 input[type=submit]:hover {
+  border: 1px solid slateblue;
   background: slateblue;
   color: white;
 }
