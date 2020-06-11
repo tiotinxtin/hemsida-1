@@ -19,7 +19,7 @@ input {
   border-radius: 15px;
   display: block;
   margin: 10px auto;
-  box-shadow: 1px 1px 1px 1px blue;
+  box-shadow: 1px 1px 1px 1px white;
 }
 
 input[type=password] {
@@ -29,10 +29,6 @@ input[type=password] {
 input:hover {
   border: 1px solid slateblue;
 }
-
-/*input[type="submit"]:hover {
-  border: 1px solid slateblue;
-}*/
 
 ::placeholder {
   color: gray;
