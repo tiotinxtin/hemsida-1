@@ -9,7 +9,7 @@ body {
 
 h1 {
   text-align: center;
-  font-weight: 100;
+  font-weight: 700;
 }
 
 input {
@@ -36,7 +36,7 @@ input[type="submit"]:hover {
 
 ::placeholder {
   color: gray;
-  font-weight: 700;
+  font-weight: 100;
 }
 
 #logga-in {
