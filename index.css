@@ -32,7 +32,7 @@ input[type="submit"]:hover {
 
 ::placeholder {
   color: gray;
-  font-weight: 100;
+  font-weight: 700;
 }
 
 #logga-in {
