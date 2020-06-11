@@ -40,7 +40,7 @@ input[type=submit]:hover {
 }
 
 #logga-in {
-  position: absolute;
+  position: fixed;
   margin: auto;
   width: 250px;
   padding-top: 2px;
