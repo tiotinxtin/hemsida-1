@@ -13,7 +13,7 @@ h1 {
 }
 
 input {
-  padding: 2px 10px;
+  padding: 5px 10px;
   border: 1px solid black;
   background: transparent;
   border-radius: 15px;
@@ -27,6 +27,11 @@ input[type="password"]:hover {
 
 input[type="submit"]:hover {
   border: 1px solid slateblue;
+}
+
+::placeholder {
+  color: gray;
+  font-weight: 100;
 }
 
 #logga-in {
