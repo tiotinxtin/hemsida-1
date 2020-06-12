@@ -10,7 +10,7 @@ body {
 
 h1 {
   font-weight: 700;
-  margin-top: 10px;
+  padding-top: 10px;
   margin-bottom: 0px;
 }
 
@@ -60,7 +60,7 @@ input[type=submit]:hover {
   flex-direction: column;
   justify-content: center;
   position: fixed;
-  width: 250px;
+  width: 280px;
   padding-top: 2px;
   padding-bottom: 10px;
   border-radius: 15px;
