@@ -32,7 +32,8 @@ input[type=password]:hover {
 }
 
 input[type=submit]:hover {
-  border: none;
+  border: 1px solid slateblue;
+  -webkit-appearance: none;
   padding: 10px 15px;
   border-radius: 20px;
   background: slateblue;
