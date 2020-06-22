@@ -57,9 +57,6 @@ input[type=submit]:hover {
   justify-content: center;
   position: fixed;
   width: 280px;
-  height: 400px;
-  padding-top: 2px;
-  padding-bottom: 10px;
   border-radius: 15px;
   box-shadow: 0px 0px 10px 0px gray;
   transition: .25s;
@@ -72,6 +69,5 @@ input[type=submit]:hover {
 @media screen and (max-width: 1125px) {
   #logga-in {
     width: 200px;
-    padding: 1px 0px 3px 0px;
   }
 }
