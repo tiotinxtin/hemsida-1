@@ -33,8 +33,12 @@ input[type=password]:hover {
 
 input[type=submit]:hover {
   border: 1px solid slateblue;
+  padding: 10px 15px;
+  background: transparent;
+  border-radius: 20px;
   background: slateblue;
   color: white;
+  box-shadow: 0px 0px 0px 0px white;
 }
 
 ::placeholder {
