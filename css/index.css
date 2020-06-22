@@ -20,13 +20,10 @@ input {
   transition: .25s;
 }
 
-input[type=password] {
-  padding: 10px 15px;
-}
 
 input[type=password]:hover {
   border: 1px solid slateblue;
-  padding: 10px 25px;
+  padding: 10px 30px;
 }
 
 input[type=submit]:hover {
