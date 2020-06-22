@@ -1,0 +1,28 @@
+ 
+body {
+  font-weight: 300;
+  font-family: "Roboto", sans-serif;
+  background: linear-gradient(to left, rgb(230, 255, 247), rgba(230, 255, 247, 0));
+}
+
+table, th, td {
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 700;
+}
+
+h2 {
+  font-weight: 700;
+}
+
+.bold {
+  font-weight: 500;
+}
+
+.asterix {
+  font-weight: 100;
+}
