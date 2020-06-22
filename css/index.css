@@ -9,7 +9,6 @@ body {
 }
 
 h1 {
-  padding: 1em;
   font-weight: 700;
 }
 
@@ -58,6 +57,7 @@ input[type=submit]:hover {
   justify-content: center;
   position: fixed;
   width: 280px;
+  height: 400px;
   padding-top: 2px;
   padding-bottom: 10px;
   border-radius: 15px;
