@@ -60,6 +60,7 @@ input[type=submit]:hover {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-content: space-around;
   position: fixed;
   width: 280px;
   padding-top: 2px;
