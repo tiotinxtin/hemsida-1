@@ -40,7 +40,7 @@ h1 {
 
 #start-uc:hover {
   display: none;
-  #start-c {
+  .colored {
     display: initial;
   }
 }
