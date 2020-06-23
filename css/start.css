@@ -58,6 +58,7 @@ p {
 
 div[id$=container] {
   display: flex;
+  flex-direction: column;
   justify-content: center;
 }
 
