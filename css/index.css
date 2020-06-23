@@ -14,7 +14,6 @@ h1 {
 }
 
 input {
-  display: inline-block;
   -webkit-appearance: none;
   padding: 10px 15px;
   border: 1px solid black;
@@ -52,7 +51,7 @@ input[type=submit]:hover {
   width: 100%;
   height: 100%;
   display:flex;
-  flex-direction: column;
+  flex-flow: column wrap;
   justify-content: center;
   align-items: center;
 }
