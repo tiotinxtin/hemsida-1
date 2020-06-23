@@ -57,14 +57,13 @@ p {
   display: initial;
 }
 
-div[id$=container] {
+.container {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  border: 1px solid black;
 }
 
-p {
+.underrubrik {
   font-weight: 100;
   text-align: center;
 }
