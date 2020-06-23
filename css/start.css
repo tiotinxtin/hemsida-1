@@ -39,9 +39,7 @@ h1 {
 }
 
 #start-uc:hover {
-  .colored {
-    display: initial;
-  }
+  background: url(../pictures/icons8-home-button-100 (1).png);
 }
 
 h1:hover {
