@@ -40,8 +40,8 @@ h1 {
 
 #start-uc:hover {
   display: none;
-  .colored {
-    display: initial;
+  h1 {
+    color: slateblue;
   }
 }
 
