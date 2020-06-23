@@ -39,8 +39,8 @@ h1 {
 }
 
 #start-uc:hover {
-  h1 {
-    color: slateblue;
+  #start-c {
+    display: initial;
   }
 }
 
