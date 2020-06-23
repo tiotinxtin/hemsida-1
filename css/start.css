@@ -43,11 +43,11 @@ h1 {
   display: none;
 }
 
-/*#start-uc:hover {
+#start-uc:active {
   display: none;
 }
 
-#start-uc:hover ~ #start-c {
+#start-uc:active ~ #start-c {
   display: initial;
 }
 
@@ -55,26 +55,26 @@ h1 {
   display: none;
 }
 
-#omm-uc:hover ~ #omm-c {
+#omm-uc:active ~ #omm-c {
   display: initial;
 }
 
-#ht-uc:hover {
+#ht-uc:active {
   display: none;
 }
 
-#ht-uc:hover ~ #ht-c {
+#ht-uc:active ~ #ht-c {
   display: initial;
 }
 
-#index-uc:hover {
+#index-uc:active {
   display: none;
 }
 
-#index-uc:hover ~ #index-c {
+#index-uc:active ~ #index-c {
   display: initial;
 }
-*/
+
 
 @media screen and (max-width: 1125px) {
   #navbar {
