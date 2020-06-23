@@ -38,7 +38,19 @@ h1 {
   display: none;
 }
 
+#start-uc:hover {
+  display: none;
+}
+
 #start-uc:hover ~ #start-c {
+  display: initial;
+}
+
+#omm-uc:hover {
+  display: none;
+}
+
+#omm-uc:hover ~ #omm-c {
   display: initial;
 }
 
