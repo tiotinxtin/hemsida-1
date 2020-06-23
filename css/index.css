@@ -61,7 +61,7 @@ input[type=submit]:hover {
   flex-direction: column;
   justify-content: center;
   position: fixed;
-  width: 280px;
+  width: 300px;
   border-radius: 15px;
   box-shadow: 0px 0px 10px 0px gray;
   transition: .25s;
@@ -73,6 +73,6 @@ input[type=submit]:hover {
 
 @media screen and (max-width: 1125px) {
   #logga-in {
-    width: 200px;
+    width: 300px;
   }
 }
