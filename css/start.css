@@ -54,6 +54,14 @@ h1 {
   display: initial;
 }
 
+#ht-uc:hover {
+  display: none;
+}
+
+#ht-uc:hover ~ #ht-c {
+  display: initial;
+}
+
 @media screen and (max-width: 1125px) {
   #navbar {
     width: 80%;
