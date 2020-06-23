@@ -73,6 +73,6 @@ input[type=submit]:hover {
 
 @media screen and (max-width: 1125px) {
   #logga-in {
-    width: 270px;
+    width: 260px;
   }
 }
