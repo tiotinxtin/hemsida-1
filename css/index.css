@@ -16,6 +16,7 @@ h1 {
 }
 
 input {
+  margin: 0px;
   padding: 10px 15px;
   border: 1px solid black;
   background: transparent;
