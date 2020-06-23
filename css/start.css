@@ -41,38 +41,6 @@ h1 {
   }
 }
 
-/*#start-uc {
-  order: 1;
-}
-
-#start-c {
-  order: 2;
-}
-
-#omm-uc {
-  order: 3;
-}
-
-#omm-c {
-  order: 4;
-}
-
-#ht-uc {
-  order: 5;
-}
-
-#ht-c {
-  order: 6;
-}
-
-#index-uc {
-  order: 7;
-}
-
-#index-c {
-  order: 8;
-}*/
-
 @media screen and (max-width: 1125px) {
   #navbar {
     width: 80%;
