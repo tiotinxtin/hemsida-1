@@ -42,7 +42,6 @@ h1 {
   h1 {
     color: slateblue;
   }
-  display: none;
 }
 
 @media screen and (max-width: 1125px) {
