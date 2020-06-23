@@ -27,6 +27,11 @@ h1 {
   border-radius: 15px;
   position: fixed;
   bottom: 0;
+  transition: .25s;
+}
+
+#navbar:hover {
+  box-shadow: 0px 0px 15px 0px slateblue;
 }
 
 #navbar img {
@@ -43,7 +48,6 @@ h1 {
 }
 
 #start-uc:hover ~ #start-c {
-  transition: .25s;
   display: initial;
 }
 
@@ -52,7 +56,6 @@ h1 {
 }
 
 #omm-uc:hover ~ #omm-c {
-  transition: .25s;
   display: initial;
 }
 
