@@ -64,7 +64,7 @@ div[id$=container] {
   border: 1px solid black;
 }
 
-div[div$=container] p {
+p {
   text-align: center;
 }
 
