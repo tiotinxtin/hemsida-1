@@ -15,7 +15,7 @@ h1 {
 
 input {
   padding: 10px 15px;
-  border: 1px solid black;
+  border: 2px solid black;
   background: transparent;
   border-radius: 20px;
   transition: .25s;
@@ -26,12 +26,12 @@ input[type=submit] {
 }
 
 input[type=password]:hover {
-  border: 1px solid slateblue;
+  border: 2px solid slateblue;
   padding: 10px 30px;
 }
 
 input[type=submit]:hover {
-  border: 1px solid slateblue;
+  border: 2px solid slateblue;
   -webkit-appearance: none;
   background: slateblue;
   color: white;
