@@ -39,11 +39,7 @@ h1 {
 }
 
 #start-uc:hover {
-  background: url(../pictures/icons8-home-button-100 (1).png);
-}
-
-h1:hover {
-  color: red;
+  background: url(/pictures/icons8-home-button-100 (1).png);
 }
 
 @media screen and (max-width: 1125px) {
