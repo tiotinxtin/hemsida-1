@@ -33,6 +33,18 @@ h1 {
   padding: 15px;
 }
 
+.colored {
+  display: none;
+}
+
+#start-uc:hover {
+  display: none;
+  #start-c {
+    display: inline-block;
+  }
+}
+
+
 @media screen and (max-width: 1125px) {
   #navbar {
     width: 80%;
