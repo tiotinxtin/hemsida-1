@@ -14,6 +14,7 @@ h1 {
 }
 
 input {
+  -webkit-appearance: none;
   padding: 10px 15px;
   border: 1px solid black;
   background: transparent;
@@ -27,7 +28,6 @@ input[type=submit] {
 
 input[type=password]:hover {
   border: 1px solid slateblue;
-  -webkit-appearance: none;
   padding: 10px 30px;
 }
 
