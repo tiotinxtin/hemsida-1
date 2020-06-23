@@ -39,7 +39,7 @@ h1 {
 }
 
 #start-uc:hover {
-  #start-c {
+  .colored {
     display: initial;
   }
 }
