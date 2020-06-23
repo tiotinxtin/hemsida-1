@@ -64,6 +64,10 @@ div[id$=container] {
   border: 1px solid black;
 }
 
+div[div$=container] p {
+  text-align: center;
+}
+
 @media screen and (max-width: 1125px) {
   #navbar {
     width: 80%;
