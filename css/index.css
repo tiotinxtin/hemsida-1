@@ -10,7 +10,8 @@ body {
 
 h1 {
   font-weight: 700;
-  margin: 1em 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
+  padding: 0px;
 }
 
 input {
