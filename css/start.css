@@ -41,7 +41,7 @@ h1 {
   }
 }
 
-#start-uc {
+/*#start-uc {
   order: 1;
 }
 
@@ -71,7 +71,7 @@ h1 {
 
 #index-c {
   order: 8;
-}
+}*/
 
 @media screen and (max-width: 1125px) {
   #navbar {
