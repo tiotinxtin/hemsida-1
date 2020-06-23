@@ -16,6 +16,7 @@ h1 {
 
 input {
   padding: 10px 15px;
+  margin: .25em;
   border: 1px solid black;
   background: transparent;
   border-radius: 20px;
