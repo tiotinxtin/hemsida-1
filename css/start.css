@@ -64,7 +64,7 @@ h1 {
   text-align: center;
   color: grey;
   font-size: 12px;
-  padding: 0px;
+  margin-top: 0px;
 }
 
 @media screen and (max-width: 1125px) {
