@@ -17,7 +17,7 @@ h1 {
 input {
   position: fixed;
   padding: 10px 15px;
-  border: 1px solid blue;
+  border: 1px solid black;
   background: transparent;
   border-radius: 20px;
   transition: .25s;
