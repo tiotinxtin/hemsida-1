@@ -14,6 +14,11 @@ h1 {
   font-weight: 700;
 }
 
+p {
+  color: grey;
+  font-size: 5px;
+}
+
 #navbar {
   display: flex;
   flex-flow: row nowrap;
@@ -36,7 +41,7 @@ h1 {
 
 #navbar img {
   width: 30px;
-  padding: 15px;
+  padding: 15px 15px 0px 15px;
 }
 
 .colored {
@@ -50,6 +55,8 @@ h1 {
 #start-c {
   display: initial;
 }
+
+
 
 @media screen and (max-width: 1125px) {
   #navbar {
