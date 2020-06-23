@@ -43,38 +43,13 @@ h1 {
   display: none;
 }
 
-#start-uc:active {
+#start-uc {
   display: none;
 }
 
-#start-uc:active ~ #start-c {
+#start-c {
   display: initial;
 }
-
-#omm-uc: {
-  display: none;
-}
-
-#omm-uc:active ~ #omm-c {
-  display: initial;
-}
-
-#ht-uc:active {
-  display: none;
-}
-
-#ht-uc:active ~ #ht-c {
-  display: initial;
-}
-
-#index-uc:active {
-  display: none;
-}
-
-#index-uc:active ~ #index-c {
-  display: initial;
-}
-
 
 @media screen and (max-width: 1125px) {
   #navbar {
