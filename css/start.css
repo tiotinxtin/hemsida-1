@@ -16,7 +16,7 @@ h1 {
 
 p {
   color: grey;
-  font-size: 15px;
+  font-size: 12px;
 }
 
 #navbar {
@@ -56,7 +56,10 @@ p {
   display: initial;
 }
 
-
+div[id$=container] {
+  display: flex;
+  justify-content: center;
+}
 
 @media screen and (max-width: 1125px) {
   #navbar {
