@@ -10,13 +10,10 @@ body {
 
 h1 {
   font-weight: 700;
-  margin: 0px;
-  padding-top: 1em;
-  border: 1px solid black;
+  margin: 1em 0px .5em 0px;
 }
 
 input {
-  margin: 0px;
   padding: 10px 15px;
   border: 1px solid black;
   background: transparent;
@@ -25,7 +22,7 @@ input {
 }
 
 input[type=submit] {
-  margin-bottom: 1em;
+  margin-bottom: 2em;
 }
 
 input[type=password]:hover {
