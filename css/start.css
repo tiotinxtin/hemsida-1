@@ -40,10 +40,7 @@ h1 {
 #start-uc:hover {
   display: none;
   #start-c {
-    display: initial;
-  }
-  #omm-c {
-    display: initial;
+    display: initial !important;
   }
 }
 
