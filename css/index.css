@@ -22,7 +22,7 @@ input {
 }
 
 input[type=submit] {
-  margin: 1em 0em 2em 0em;
+  margin: 2em 0em 2em 0em;
 }
 
 input[type=password]:hover {
