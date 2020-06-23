@@ -39,9 +39,11 @@ h1 {
 }
 
 #start-uc:hover {
-  omm-uc {
-    background: slateblue;
-  }
+  display: none;
+}
+
+#start-uc:hover - start-c {
+  display: initial;
 }
 
 @media screen and (max-width: 1125px) {
