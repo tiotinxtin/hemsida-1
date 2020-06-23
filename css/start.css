@@ -28,8 +28,11 @@ h1 {
   bottom: 0;
 }
 
-#navbar a {
+#navbar img {
   width: 15px;
+}
+
+#navbar a {
   padding: 15px;
 }
 
