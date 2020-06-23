@@ -39,10 +39,10 @@ h1 {
 }
 
 #start-uc:hover {
-  display: none;
   h1 {
     color: slateblue;
   }
+  display: none;
 }
 
 @media screen and (max-width: 1125px) {
