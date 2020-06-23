@@ -38,7 +38,7 @@ h1 {
   display: none;
 }
 
-#start-uc:hover + #start-c {
+#start-uc:hover ~ #start-c {
   display: initial;
 }
 
