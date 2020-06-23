@@ -32,7 +32,6 @@ h1 {
 #navbar img {
   width: 30px;
   padding: 15px;
-  transition: .25s;
 }
 
 .colored {
@@ -44,6 +43,7 @@ h1 {
 }
 
 #start-uc:hover ~ #start-c {
+  transition: .25s;
   display: initial;
 }
 
@@ -52,6 +52,7 @@ h1 {
 }
 
 #omm-uc:hover ~ #omm-c {
+  transition: .25s;
   display: initial;
 }
 
