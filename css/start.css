@@ -43,7 +43,7 @@ h1 {
   display: none;
 }
 
-#start-uc:hover {
+/*#start-uc:hover {
   display: none;
 }
 
@@ -74,7 +74,7 @@ h1 {
 #index-uc:hover ~ #index-c {
   display: initial;
 }
-
+*/
 @media screen and (max-width: 1125px) {
   #navbar {
     width: 80%;
