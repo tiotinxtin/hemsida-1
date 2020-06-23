@@ -30,6 +30,7 @@ h1 {
 
 #navbar img {
   width: 30px;
+  padding: 10px;
 }
 
 @media screen and (max-width: 1125px) {
