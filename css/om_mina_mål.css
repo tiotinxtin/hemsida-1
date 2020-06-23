@@ -28,8 +28,10 @@ table {
 
 #navbar {
   display: flex;
+  flex-direction: row;
   justify-content: space-evenly;
-  background-color: white;
+  align-items: center;
+  background: rgba(255, 255, 255, .5);
   box-shadow: 0px 0px 10px 0px gray;
   margin-bottom: 20px;
   width: 20%;
@@ -38,13 +40,48 @@ table {
   border-radius: 15px;
   position: fixed;
   bottom: 0;
+  transition: .25s;
 }
 
-#navbar a {
-  color: black;
+#navbar:hover {
+  box-shadow: 0px 0px 15px 0px slateblue;
+}
+
+#navbar img {
+  width: 30px;
+  padding: 12px 12px 0px 12px;
+  margin: 0px;
+}
+
+.colored {
+  display: none;
+}
+
+#start-uc {
+  display: none;
+}
+
+#start-c {
+  display: initial;
+}
+
+#start {
+  color: slateblue;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.underrubrik {
+  font-weight: 100;
   text-align: center;
+  color: grey;
+  font-size: 12px;
+  margin: 0px 0px 10px 0px;
   text-decoration: none;
-  padding: 15px;
 }
 
 @media screen and (max-width: 1125px) {
