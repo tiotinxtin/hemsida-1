@@ -126,7 +126,6 @@ summary::-webkit-details-marker {
 }
 
 #start-container:hover  img {
-  transition: .25s;
   padding: 12px 12px 0px 12px;
 }
 
@@ -136,7 +135,6 @@ summary::-webkit-details-marker {
 }
 
 #omm-container:hover  img {
-  transition: .25s;
   padding: 12px 12px 0px 12px;
 }
 
@@ -147,7 +145,6 @@ summary::-webkit-details-marker {
 }
 
 #ht-container:hover  img {
-  transition: .25s;
   padding: 12px 12px 0px 12px;
 }
 
@@ -158,7 +155,6 @@ summary::-webkit-details-marker {
 }
 
 #index-container:hover  img {
-  transition: .25s;
   padding: 12px 12px 0px 12px;
 }
 
