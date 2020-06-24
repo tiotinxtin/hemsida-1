@@ -104,7 +104,8 @@ summary::-webkit-details-marker {
   border-radius: 15px;
   position: fixed;
   bottom: 0;
-  transition: box-shadow .5s, padding .5s, display .5s;
+  transition-property: box-shadow, padding;
+  transition-duration: .5s;
 }
 
 #navbar:hover {
