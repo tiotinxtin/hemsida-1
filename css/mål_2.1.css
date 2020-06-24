@@ -126,8 +126,7 @@ summary::-webkit-details-marker {
 }
 
 #start-container:hover  a {
-  transition: 1s;
-  display: initial;
+  transition: .25s;
   color: black;
 }
 
@@ -158,11 +157,10 @@ summary::-webkit-details-marker {
   line-height: 100%;
   font-weight: 100;
   text-align: center;
-  color: grey;
+  color: transparent;
   font-size: 12px;
   margin: 0px 0px 10px 0px;
   text-decoration: none;
-  transition: 1s;
 }
 
 @media screen and (max-width: 1125px) {
