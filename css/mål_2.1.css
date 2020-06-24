@@ -117,7 +117,7 @@ summary::-webkit-details-marker {
 
 #navbar img {
   width: 30px;
-  padding: 12px 12px 10px 12px;
+  padding: 12px 12px 12px 12px;
   margin: 0px;
 }
 
@@ -129,6 +129,7 @@ summary::-webkit-details-marker {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
   border: 1px solid black;
 }
 
