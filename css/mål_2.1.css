@@ -126,19 +126,23 @@ summary::-webkit-details-marker {
 }
 
 #start-container:hover  a {
+  transition: .25s;
   color: black;
 }
 
 #omm-container:hover  a {
+  transition: .25s;
   color: black;
 }
 
 #ht-container:hover a {
+  transition: .25s;
   color: black;
 }
 
 
 #index-container:hover a {
+  transition: .25s;
   color: black;
 }
 
