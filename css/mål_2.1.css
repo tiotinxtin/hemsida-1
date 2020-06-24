@@ -125,28 +125,17 @@ summary::-webkit-details-marker {
   color: slateblue;
 }
 
-#start-img:hover {
-  filter: invert(30%) sepia(76%) saturate(1125%) hue-rotate(223deg) brightness(101%) contrast(82%);
+#start-container:hover {
+  color: black;
 }
 
-#start-txt:hover {
-  color: slateblue;
+#ht-container:hover {
+  color: black;
 }
 
-#ht-img:hover {
-  filter: invert(30%) sepia(76%) saturate(1125%) hue-rotate(223deg) brightness(101%) contrast(82%);
-}
 
-#ht-txt:hover {
-  color: slateblue;
-}
-
-#index-img:hover {
-  filter: invert(30%) sepia(76%) saturate(1125%) hue-rotate(223deg) brightness(101%) contrast(82%);
-}
-
-#index-txt:hover {
-  color: slateblue;
+#index-container:hover {
+  color: black;
 }
 
 .nav-container {
