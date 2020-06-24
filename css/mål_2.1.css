@@ -111,8 +111,8 @@ summary::-webkit-details-marker {
   box-shadow: 0px 0px 15px 0px slateblue;
 }
 
-#navbar:hover img {
-  padding: 12px 12px 0px 12px;
+#navbar:hover a {
+  display: initial;
 }
 
 #navbar img {
@@ -134,7 +134,6 @@ summary::-webkit-details-marker {
 }
 
 #start-container:hover  a {
-  display: initial;
   transition: .25s;
   color: black;
 }
@@ -144,7 +143,6 @@ summary::-webkit-details-marker {
 }
 
 #omm-container:hover  a {
-  display: initial;
   transition: .25s;
   color: black;
 }
@@ -154,7 +152,6 @@ summary::-webkit-details-marker {
 }
 
 #ht-container:hover a {
-  display: initial;
   transition: .25s;
   color: black;
 }
@@ -164,7 +161,6 @@ summary::-webkit-details-marker {
 }
 
 #index-container:hover a {
-  display: initial;
   transition: .25s;
   color: black;
 }
@@ -180,7 +176,7 @@ summary::-webkit-details-marker {
   line-height: 100%;
   font-weight: 100;
   text-align: center;
-  color: gray;
+  color: transparent;
   font-size: 12px;
   margin: 0px 0px 10px 0px;
   text-decoration: none;
