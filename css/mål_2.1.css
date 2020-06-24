@@ -141,6 +141,7 @@ summary::-webkit-details-marker {
 }
 
 #omm-container:hover  a {
+  display: initial;
   transition: .25s;
   color: black;
 }
@@ -151,6 +152,7 @@ summary::-webkit-details-marker {
 }
 
 #ht-container:hover a {
+  display: initial;
   transition: .25s;
   color: black;
 }
@@ -161,6 +163,7 @@ summary::-webkit-details-marker {
 }
 
 #index-container:hover a {
+  display: initial;
   transition: .25s;
   color: black;
 }
