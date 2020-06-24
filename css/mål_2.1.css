@@ -115,6 +115,7 @@ summary::-webkit-details-marker {
   width: 30px;
   padding: 12px 12px 0px 12px;
   margin: 0px;
+  filter: invert(53%) sepia(0%) saturate(49%) hue-rotate(223deg) brightness(95%) contrast(89%);
 }
 
 .nav-container {
@@ -145,23 +146,27 @@ summary::-webkit-details-marker {
 
 #start-container:hover  a {
   color: black;
+  filter: none;
 }
 
 #omm-container:hover  a {
   color: black;
+  filter: none;
 }
 
 #ht-container:hover a {
   color: black;
+  filter: none;
 }
 
 #index-container:hover a {
   color: black;
+  filter: none;
 }
 
 @media screen and (max-width: 1125px) {
   #navbar {
-    border-top: 1px solid gray;
+    border-top: 1px solid grey;
     width: 100%;
     margin: 0px;
     border-radius: 0px;
