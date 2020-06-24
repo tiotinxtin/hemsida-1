@@ -162,6 +162,7 @@ summary::-webkit-details-marker {
 @media screen and (max-width: 1125px) {
   #navbar {
     width: 100%;
+    margin: 0px;
     border-radius: 0px;
   }
 }  
