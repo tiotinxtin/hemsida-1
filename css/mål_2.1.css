@@ -117,18 +117,15 @@ summary::-webkit-details-marker {
   margin: 0px;
 }
 
-*[id*=omm] {
+*omm-container {
   color: slateblue !important;
   filter: invert(30%) sepia(76%) saturate(1125%) hue-rotate(223deg) brightness(101%) contrast(82%);
 }
 
-div[id^=container] {
+.nav-container {
   display: flex;
   flex-direction: column;
   justify-content: center;
-}
-
-.underrubrik {
   line-height: 100%;
   font-weight: 100;
   text-align: center;
