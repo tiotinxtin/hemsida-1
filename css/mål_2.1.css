@@ -125,16 +125,16 @@ summary::-webkit-details-marker {
   color: slateblue;
 }
 
-#start-container:hover {
+#start-container:hover  a {
   color: black;
 }
 
-#ht-container:hover {
+#ht-container:hover a {
   color: black;
 }
 
 
-#index-container:hover {
+#index-container:hover a {
   color: black;
 }
 
