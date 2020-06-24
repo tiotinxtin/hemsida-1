@@ -126,6 +126,9 @@ summary::-webkit-details-marker {
   display: flex;
   flex-direction: column;
   justify-content: center;
+}
+
+.underrubrik {
   line-height: 100%;
   font-weight: 100;
   text-align: center;
