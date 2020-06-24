@@ -162,6 +162,7 @@ summary::-webkit-details-marker {
   font-size: 12px;
   margin: 0px 0px 10px 0px;
   text-decoration: none;
+  transition: 1s;
 }
 
 @media screen and (max-width: 1125px) {
