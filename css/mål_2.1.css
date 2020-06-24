@@ -126,7 +126,7 @@ summary::-webkit-details-marker {
 }
 
 #start-container:hover  a {
-  transition: .25s;
+  transition: 1s;
   color: black;
 }
 
