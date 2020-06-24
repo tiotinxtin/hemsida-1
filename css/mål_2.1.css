@@ -129,6 +129,10 @@ summary::-webkit-details-marker {
   color: black;
 }
 
+#omm-container:hover  a {
+  color: black;
+}
+
 #ht-container:hover a {
   color: black;
 }
