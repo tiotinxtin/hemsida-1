@@ -107,16 +107,17 @@ summary::-webkit-details-marker {
 }
 
 #navbar:hover {
-  transition: .25s;
+  transition: .5s;
   box-shadow: 0px 0px 15px 0px slateblue;
 }
 
 #navbar:hover a {
-  transition: .25s;
+  transition: .5s;
   display: initial;
 }
 
 #navbar:hover img {
+  transition: .5s;
   padding: 12px 12px 0px 12px;
 }
 
@@ -135,22 +136,22 @@ summary::-webkit-details-marker {
 }
 
 #start-container:hover  a {
-  transition: .25s;
+  transition: .5s;
   color: black;
 }
 
 #omm-container:hover  a {
-  transition: .25s;
+  transition: .5s;
   color: black;
 }
 
 #ht-container:hover a {
-  transition: .25s;
+  transition: .5s;
   color: black;
 }
 
 #index-container:hover a {
-  transition: .25s;
+  transition: .5s;
   color: black;
 }
 
