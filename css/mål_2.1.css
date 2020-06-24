@@ -111,8 +111,8 @@ summary::-webkit-details-marker {
   box-shadow: 0px 0px 15px 0px slateblue;
 }
 
-#navbar:hover a {
-  padding: 12px 12px 12px 12px;
+#navbar:hover img {
+  padding: 12px 12px 0px 12px;
 }
 
 #navbar img {
@@ -134,6 +134,7 @@ summary::-webkit-details-marker {
 }
 
 #start-container:hover  a {
+  display: initial;
   transition: .25s;
   color: black;
 }
