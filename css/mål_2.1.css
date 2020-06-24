@@ -104,7 +104,7 @@ summary::-webkit-details-marker {
   border-radius: 15px;
   position: fixed;
   bottom: 0;
-  transition-property: box-shadow, padding;
+  transition-property: box-shadow, padding, color;
   transition-duration: .5s;
 }
 
