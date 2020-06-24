@@ -125,6 +125,10 @@ summary::-webkit-details-marker {
   color: slateblue;
 }
 
+#start-container:hover {
+  filter: invert(30%) sepia(76%) saturate(1125%) hue-rotate(223deg) brightness(101%) contrast(82%);
+}
+
 .nav-container {
   display: flex;
   flex-direction: column;
