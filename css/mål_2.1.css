@@ -119,7 +119,6 @@ summary::-webkit-details-marker {
   width: 30px;
   padding: 12px 12px 12px 12px;
   margin: 0px;
-  transition: padding .5s;
 }
 
 #navbar:hover img {
@@ -130,7 +129,6 @@ summary::-webkit-details-marker {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  transition: color .5s;
 }
 
 .underrubrik {
@@ -142,6 +140,7 @@ summary::-webkit-details-marker {
   font-size: 12px;
   margin: 0px 0px 10px 0px;
   text-decoration: none;
+  transition: color .5s;
 }
 
 #omm-img {
