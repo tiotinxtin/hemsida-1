@@ -144,22 +144,22 @@ summary::-webkit-details-marker {
   color: slateblue;
 }
 
-#start-container:hover  a {
+#start-container:hover  a, img {
   color: black;
   filter: none;
 }
 
-#omm-container:hover  a {
+#omm-container:hover  a, img {
   color: black;
   filter: none;
 }
 
-#ht-container:hover a {
+#ht-container:hover a, img {
   color: black;
   filter: none;
 }
 
-#index-container:hover a {
+#index-container:hover a, img {
   color: black;
   filter: none;
 }
