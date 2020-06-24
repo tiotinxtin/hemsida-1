@@ -125,8 +125,28 @@ summary::-webkit-details-marker {
   color: slateblue;
 }
 
-#start-container:hover {
+#start-img:hover {
   filter: invert(30%) sepia(76%) saturate(1125%) hue-rotate(223deg) brightness(101%) contrast(82%);
+}
+
+#start-txt:hover {
+  color: slateblue;
+}
+
+#ht-img:hover {
+  filter: invert(30%) sepia(76%) saturate(1125%) hue-rotate(223deg) brightness(101%) contrast(82%);
+}
+
+#ht-txt:hover {
+  color: slateblue;
+}
+
+#index-img:hover {
+  filter: invert(30%) sepia(76%) saturate(1125%) hue-rotate(223deg) brightness(101%) contrast(82%);
+}
+
+#index-txt:hover {
+  color: slateblue;
 }
 
 .nav-container {
