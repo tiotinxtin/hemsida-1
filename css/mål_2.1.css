@@ -117,20 +117,11 @@ summary::-webkit-details-marker {
   margin: 0px;
 }
 
-.colored {
-  display: none;
-}
-
-#omm-uc {
+*[id*=omm] {
   filter: invert(30%) sepia(76%) saturate(1125%) hue-rotate(223deg) brightness(101%) contrast(82%);
 }
 
-
-#start {
-  color: slateblue;
-}
-
-.container {
+div[id$=container] {
   display: flex;
   flex-direction: column;
   justify-content: center;
