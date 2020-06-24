@@ -127,6 +127,7 @@ summary::-webkit-details-marker {
 
 #start-container:hover  a {
   transition: 1s;
+  display: initial;
   color: black;
 }
 
@@ -153,6 +154,7 @@ summary::-webkit-details-marker {
 }
 
 .underrubrik {
+  display: none;
   line-height: 100%;
   font-weight: 100;
   text-align: center;
