@@ -122,6 +122,7 @@ summary::-webkit-details-marker {
 }
 
 #omm-txt {
+  font-weight: 300;
   color: slateblue;
 }
 
