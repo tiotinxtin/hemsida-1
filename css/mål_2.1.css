@@ -115,6 +115,10 @@ summary::-webkit-details-marker {
   display: initial;
 }
 
+#navbar:hover img {
+  padding: 12px 12px 0px 12px;
+}
+
 #navbar img {
   width: 30px;
   padding: 12px 12px 12px 12px;
