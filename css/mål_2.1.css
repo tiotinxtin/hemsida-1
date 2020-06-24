@@ -104,8 +104,7 @@ summary::-webkit-details-marker {
   border-radius: 15px;
   position: fixed;
   bottom: 0;
-  transition-property: box-shadow, padding, color;
-  transition-duration: .5s;
+  transition: box-shadow .5s ;
 }
 
 #navbar:hover {
@@ -116,14 +115,33 @@ summary::-webkit-details-marker {
   display: initial;
 }
 
-#navbar:hover img {
-  padding: 12px 12px 0px 12px;
-}
-
 #navbar img {
   width: 30px;
   padding: 12px 12px 12px 12px;
   margin: 0px;
+  transition: padding .5s;
+}
+
+#navbar:hover img {
+  padding: 12px 12px 0px 12px;
+}
+
+.nav-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  transition: color .5s;
+}
+
+.underrubrik {
+  display: none;
+  line-height: 100%;
+  font-weight: 100;
+  text-align: center;
+  color: gray;
+  font-size: 12px;
+  margin: 0px 0px 10px 0px;
+  text-decoration: none;
 }
 
 #omm-img {
@@ -148,23 +166,6 @@ summary::-webkit-details-marker {
 
 #index-container:hover a {
   color: black;
-}
-
-.nav-container {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-
-.underrubrik {
-  display: none;
-  line-height: 100%;
-  font-weight: 100;
-  text-align: center;
-  color: gray;
-  font-size: 12px;
-  margin: 0px 0px 10px 0px;
-  text-decoration: none;
 }
 
 @media screen and (max-width: 1125px) {
