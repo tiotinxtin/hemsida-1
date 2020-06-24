@@ -121,7 +121,7 @@ summary::-webkit-details-marker {
   filter: invert(30%) sepia(76%) saturate(1125%) hue-rotate(223deg) brightness(101%) contrast(82%);
 }
 
-div[id$=container] {
+div[id^=container] {
   display: flex;
   flex-direction: column;
   justify-content: center;
