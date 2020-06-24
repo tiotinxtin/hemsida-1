@@ -133,17 +133,9 @@ summary::-webkit-details-marker {
   color: slateblue;
 }
 
-#start-container:hover  img {
-  padding: 12px 12px 0px 12px;
-}
-
 #start-container:hover  a {
   transition: .25s;
   color: black;
-}
-
-#omm-container:hover  img {
-  padding: 12px 12px 0px 12px;
 }
 
 #omm-container:hover  a {
@@ -151,17 +143,9 @@ summary::-webkit-details-marker {
   color: black;
 }
 
-#ht-container:hover  img {
-  padding: 12px 12px 0px 12px;
-}
-
 #ht-container:hover a {
   transition: .25s;
   color: black;
-}
-
-#index-container:hover  img {
-  padding: 12px 12px 0px 12px;
 }
 
 #index-container:hover a {
