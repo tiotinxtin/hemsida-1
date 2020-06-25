@@ -132,6 +132,7 @@ summary::-webkit-details-marker {
   font-size: 12px;
   margin: 0px 0px 10px 0px;
   text-decoration: none;
+  color: black;
   filter: invert(53%) sepia(0%) saturate(49%) hue-rotate(223deg) brightness(95%) contrast(89%);
   transition: color .5s;
 }
