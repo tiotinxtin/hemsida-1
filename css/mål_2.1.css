@@ -141,7 +141,7 @@ summary::-webkit-details-marker {
   filter: invert(30%) sepia(76%) saturate(1125%) hue-rotate(223deg) brightness(101%) contrast(82%);
 }
 
-.nav-start:hover {
+#nav-container-start:hover .nav-start {
   filter: none;
 }
 
@@ -153,7 +153,7 @@ summary::-webkit-details-marker {
   filter: none;
 }
 
-.nav-index:hover {
+#nav-container-index:hover .nav-index {
   filter: none;
 }
 
