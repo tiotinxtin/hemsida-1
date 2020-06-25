@@ -1,2 +1,2 @@
 alert("Hejsan!");
-console.log("Syns detta?");
+print("Hello!");
