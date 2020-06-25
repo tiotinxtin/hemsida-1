@@ -154,7 +154,7 @@ summary::-webkit-details-marker {
 }
 
 #ht-container:hover a, img {
-  filter: none;
+  filter: none !important;
 }
 
 #index-container:hover a {
