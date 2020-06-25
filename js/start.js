@@ -1,4 +1,2 @@
-alert("Hejsan!");
-
 var namn = prompt("Vad heter du?");
-document.GetElementById("mindre-rubrik").innerHTML = namn;
+document.GetElementById("mindre-rubrik").innerHTML = "Välkommen, vad du nu heter?";
