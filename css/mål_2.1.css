@@ -111,11 +111,11 @@ summary::-webkit-details-marker {
   box-shadow: 0px 0px 10px 0px slateblue;
 }
 
-#navbar img {
+.ikon {
   width: 30px;
   padding: 12px 12px 0px 12px;
   margin: 0px;
-  /*filter: invert(53%) sepia(0%) saturate(49%) hue-rotate(223deg) brightness(95%) contrast(89%);*/
+  filter: invert(53%) sepia(0%) saturate(49%) hue-rotate(223deg) brightness(95%) contrast(89%);
 }
 
 .nav-container {
@@ -129,10 +129,10 @@ summary::-webkit-details-marker {
   line-height: 100%;
   font-weight: 100;
   text-align: center;
-  color: gray;
   font-size: 12px;
   margin: 0px 0px 10px 0px;
   text-decoration: none;
+  filter: invert(53%) sepia(0%) saturate(49%) hue-rotate(223deg) brightness(95%) contrast(89%);
   transition: color .5s;
 }
 
@@ -145,19 +145,19 @@ summary::-webkit-details-marker {
 }
 
 #start-container:hover  a, img {
-  color: black;
+  filter: none;
 }
 
 #omm-container:hover  a, img {
-  color: black;
+  filter: none;
 }
 
 #ht-container:hover a, img {
-  color: black;
+  filter: none;
 }
 
 #index-container:hover a, img {
-  color: black;
+  filter: none;
 }
 
 @media screen and (max-width: 1125px) {
