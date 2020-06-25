@@ -157,7 +157,7 @@ summary::-webkit-details-marker {
   filter: none;
 }
 
-#index-container:hover #index-txt, #index-img {
+#index-container:hover #index-img {
   filter: none;
 }
 
