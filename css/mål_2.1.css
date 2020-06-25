@@ -111,18 +111,19 @@ summary::-webkit-details-marker {
   box-shadow: 0px 0px 10px 0px slateblue;
 }
 
-.nav-ikon {
-  width: 30px;
-  padding: 12px 12px 0px 12px;
-  margin: 0px;
-  filter: invert(53%) sepia(0%) saturate(49%) hue-rotate(223deg) brightness(95%) contrast(89%);
-}
-
 .nav-container {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+.nav-ikon {
+  width: 30px;
+  padding: 12px 12px 0px 12px;
+  margin: 0px;
+  filter: invert(53%) sepia(0%) saturate(49%) hue-rotate(223deg) brightness(95%) contrast(89%);
+  transition: .5s;
 }
 
 .nav-underrubrik {
@@ -134,6 +135,7 @@ summary::-webkit-details-marker {
   text-decoration: none;
   color: black;
   filter: invert(53%) sepia(0%) saturate(49%) hue-rotate(223deg) brightness(95%) contrast(89%);
+  transition: .5s;
 }
 
 .nav-omm {
@@ -145,11 +147,11 @@ summary::-webkit-details-marker {
   filter: none;
 }
 
-.nav-omm:hover {
+#nav-container-omm:hover .nav-omm {
   filter: none;
 }
 
-.nav-ht:hover {
+#nav-container-ht:hover .nav-ht {
   filter: none;
 }
 
