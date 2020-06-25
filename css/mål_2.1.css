@@ -158,7 +158,7 @@ summary::-webkit-details-marker {
 }
 
 #index-container:hover a {
-  filter: none;
+  filter: none !important;
 }
 
 @media screen and (max-width: 1125px) {
