@@ -51,7 +51,7 @@ body {
   transition: .5s;
 }
 
-.nav-start {
+.nav-omm {
   filter: invert(30%) sepia(76%) saturate(1125%) hue-rotate(223deg) brightness(101%) contrast(82%);
 }
 
