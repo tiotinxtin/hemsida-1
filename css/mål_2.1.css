@@ -132,8 +132,8 @@ summary::-webkit-details-marker {
   font-size: 12px;
   margin: 0px 0px 10px 0px;
   text-decoration: none;
-  color: grey;
-  transition: color .5s;
+  color: black;
+  filter: invert(53%) sepia(0%) saturate(49%) hue-rotate(223deg) brightness(95%) contrast(89%);
 }
 
 .nav-omm {
@@ -142,22 +142,18 @@ summary::-webkit-details-marker {
 }
 
 .nav-start:hover {
-  color: black;
   filter: none;
 }
 
 .nav-omm:hover {
-  color: blue;
   filter: none;
 }
 
 .nav-ht:hover {
-  color: blue;
   filter: none;
 }
 
 .nav-index:hover {
-  color: blue;
   filter: none;
 }
 
