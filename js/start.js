@@ -1,3 +1,29 @@
-var namn = prompt("Vad heter du?");
+function setColorScheme(scheme) {
+  switch(scheme){
+    case 'dark':
+      document.getElementById(internal-stye).innerHTML = "body {invert(1);}";
+      break;
+    case 'light':
+      // Light
+      break;
+    default:
+      // Default
+      break;
+  }
+}
 
-document.getElementById('mindre-rubrik').innerHTML = namn;
+function getPreferredColorScheme() {
+  if (window.matchMedia) {
+    if(window.matchMedia('(prefers-color-scheme: dark)').matches){
+      return 'dark';
+    } else {
+      return 'light';
+    }
+  }
+  return 'light';
+}
+
+if(window.matchMedia){
+  var colorSchemeQuery = window.matchMedia('(prefers-color-scheme: dark)');
+  colorSchemeQuery.addEventListener('change', setColorScheme(getPreferedColorScheme()));
+}
