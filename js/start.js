@@ -1,7 +1,7 @@
 function setColorScheme(scheme) {
   switch(scheme){
     case 'dark':
-      document.getElementById(internal-stye).innerHTML = "body {invert(1);}";
+      document.getElementById(internal-stye).innerHTML = "body {background: black;}";
       break;
     case 'light':
       // Light
