@@ -36,6 +36,10 @@ summary {
   background: lightgray;
 }
 
+img {
+  width: 30%;
+}
+
 summary::-webkit-details-marker {
   display: none;
 }
