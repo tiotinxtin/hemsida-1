@@ -39,7 +39,9 @@ summary {
 img {
   width: 200px;
   display: block;
-  margin: auto 10px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 20px;
 }
 
 summary::-webkit-details-marker {
