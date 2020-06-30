@@ -38,10 +38,17 @@ summary {
 
 img {
   width: 200px;
-  display: none;
+  display: block;
   margin-right: auto;
   margin-left: auto;
   margin-bottom: 20px;
+}
+
+.biljett summary{
+  border: 1px solid black;
+  margin: 5px;
+  display: inline;
+  padding: 5px;
 }
 
 summary::-webkit-details-marker {
