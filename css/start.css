@@ -22,3 +22,8 @@ label, p {
   margin: 20px;
   padding: 5px 25px;
 }
+
+.tid {
+  padding: 3px;
+  background: darkgray;
+}
