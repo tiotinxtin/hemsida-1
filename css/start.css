@@ -47,6 +47,10 @@ img {
   margin-bottom: 20px;
 }
 
+.bold {
+  font-weight: bold;
+}
+
 summary::-webkit-details-marker {
   display: none;
 }
