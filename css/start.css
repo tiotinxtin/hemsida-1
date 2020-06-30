@@ -33,7 +33,8 @@ label, p {
 
 .tid {
   border-radius: 2px;
-  background: lightgray;
+  background: slateblue;
+  color: white;
 }
 
 img {
@@ -45,8 +46,8 @@ img {
 }
 
 .biljett summary {
-  background: whitesmoke;
-  border: .8px solid black;
+  background: slateblue;
+  color: white;
   border-radius: 15px;
   box-shadow: none;
   display: inline;
