@@ -45,18 +45,13 @@ img {
 }
 
 .biljett summary {
-  border: 1px solid black;
-  border-radius: 20px;
+  background: slateblue;
+  color: white;
+  border-radius: 5px;
   box-shadow: none;
   margin: 5px;
   display: inline;
-  padding: 5px;
-}
-
-.biljett summary:active {
-  background: slateblue;
-  border-color: slateblue;
-  color: white;
+  padding: 15px;
 }
 
 summary::-webkit-details-marker {
