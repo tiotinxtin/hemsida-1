@@ -46,6 +46,7 @@ img {
 
 .biljett summary{
   border: 1px solid black;
+  box-shadow: none;
   margin: 5px;
   display: inline;
   padding: 5px;
