@@ -45,11 +45,10 @@ img {
 }
 
 .biljett summary {
-  background: slateblue;
-  color: white;
-  border-radius: 5px;
+  background: lightgray;
+  border-radius: 8px;
   box-shadow: none;
-  margin: 5px;
+  margin: 3px;
   display: inline;
   padding: 15px;
 }
