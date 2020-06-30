@@ -44,12 +44,19 @@ img {
   margin-bottom: 20px;
 }
 
-.biljett summary{
+.biljett summary {
   border: 1px solid black;
+  border-radius: 20px;
   box-shadow: none;
   margin: 5px;
   display: inline;
   padding: 5px;
+}
+
+.biljett summary:active {
+  background: slateblue;
+  border-color: slateblue;
+  color: white;
 }
 
 summary::-webkit-details-marker {
