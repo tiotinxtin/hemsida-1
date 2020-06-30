@@ -44,6 +44,7 @@ img {
   border-radius: 20px;
   display: inline;
   padding: 10px;
+  margin-bottom: 20px;
 }
 
 summary::-webkit-details-marker {
