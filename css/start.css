@@ -38,6 +38,8 @@ summary {
 
 img {
   width: 200px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 summary::-webkit-details-marker {
