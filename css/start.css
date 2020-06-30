@@ -25,5 +25,6 @@ label, p {
 
 .tid {
   padding: 3px;
-  background: darkgray;
+  border-radius: 2px;
+  background: lightgray;
 }
