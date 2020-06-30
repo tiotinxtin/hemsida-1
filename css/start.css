@@ -22,6 +22,6 @@ label, p {
   margin: 10px 20px;
 }
 
-.container > * {
+.container > label, p, h3 {
   margin: 10px;
 }
