@@ -15,7 +15,7 @@ h1, h2 {
 label, p {
   font-size: 1.5em;
   padding: 3px;
-  margin: none;
+  margin: 1em 0px 1em 0px;
 }
 
 .container, summary {
