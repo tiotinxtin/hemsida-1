@@ -28,3 +28,7 @@ label, p {
   border-radius: 2px;
   background: lightgray;
 }
+
+summary::-webkit-details-marker {
+  display: none;
+}
