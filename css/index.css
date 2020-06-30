@@ -31,7 +31,7 @@ input[type=password]:focus {
   padding: 10px 30px;
 }
 
-input[type=submit]:focus {
+input[type=submit]:hover {
   border: 1px solid slateblue;
   -webkit-appearance: none;
   background: slateblue;
