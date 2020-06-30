@@ -21,7 +21,7 @@ label, p {
   border-radius: 10px;
   box-shadow: 0px 0px 15px 3px lightgray;
   margin: 20px;
-  padding: 20px 25px 0px 25px;
+  padding: 20px 25px 10px 25px;
 }
 
 .tid {
