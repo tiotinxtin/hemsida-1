@@ -46,11 +46,10 @@ img {
 
 .biljett summary {
   background: lightgray;
-  border-radius: 8px;
+  border-radius: 10px;
   box-shadow: none;
-  margin: 3px;
   display: inline;
-  padding: 15px;
+  padding: 10px;
 }
 
 summary::-webkit-details-marker {
