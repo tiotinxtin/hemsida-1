@@ -19,6 +19,7 @@ label, p {
 
 .main {
   width: 240px;
+  height: 30px;
   margin-left: auto;
   margin-right: auto;
 }
