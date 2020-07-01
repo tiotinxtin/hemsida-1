@@ -18,7 +18,10 @@ label, p {
 }
 
 summary {
-  width: 50px;
+  width: 240px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .container {
