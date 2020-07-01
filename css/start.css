@@ -51,6 +51,6 @@ img {
   font-weight: bold;
 }
 
-/*summary::-webkit-details-marker {
+.biljett summary::-webkit-details-marker {
   display: none;
-}*/
+}
