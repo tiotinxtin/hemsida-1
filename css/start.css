@@ -35,7 +35,7 @@ label, p {
   background: lightgray;
 }
 
-img {
+biljett-img {
   width: 200px;
   display: block;
   margin-right: auto;
@@ -43,7 +43,7 @@ img {
   margin-bottom: 20px;
   margin-top: 20px;
 }
-/*
+
 .biljett summary {
   background: slateblue;
   color: white;
@@ -59,4 +59,4 @@ img {
 
 .biljett summary::-webkit-details-marker {
   display: none;
-}*/
+}
