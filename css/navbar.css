@@ -34,7 +34,7 @@ body {
   font-weight: 100;
   text-align: center;
   font-size: 12px;
-  margin: 0px 0px 10px 0px !important;
+  margin: 0px 0px 10px 0px;
   text-decoration: none;
   filter: invert(53%) sepia(0%) saturate(49%) hue-rotate(223deg) brightness(95%) contrast(89%);
   transition: .5s;
