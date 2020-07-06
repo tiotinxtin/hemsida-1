@@ -27,7 +27,7 @@ body {
 .nav-ikon {
   width: 30px;
   padding: 12px 12px 0px 12px;
-  margin: 0px;
+  margin: 20px 0px;
   filter: invert(53%) sepia(0%) saturate(49%) hue-rotate(223deg) brightness(95%) contrast(89%);
   transition: .5s;
 }
@@ -80,5 +80,24 @@ body {
   
   .nav-underrubrik {
     margin-bottom: 30px;
+  }
+  
+  .nav-ikon {
+    width: 30px;
+    padding: 12px 12px 0px 12px;
+    margin: 0px;
+    filter: invert(53%) sepia(0%) saturate(49%) hue-rotate(223deg) brightness(95%) contrast(89%);
+    transition: .5s;
+  }
+
+  .nav-underrubrik {
+    font-weight: 100;
+    color: black;
+    text-align: center;
+    font-size: 12px;
+    margin: 0px 0px 10px 0px;
+    text-decoration: none;
+    filter: invert(53%) sepia(0%) saturate(49%) hue-rotate(223deg) brightness(95%) contrast(89%);
+    transition: .5s;
   }
 }   
