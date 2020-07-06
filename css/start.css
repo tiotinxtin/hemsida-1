@@ -34,7 +34,7 @@ label, p {
   border-radius: 2px;
   background: lightgray;
 }
-/*
+
 img {
   width: 200px;
   display: block;
@@ -43,7 +43,7 @@ img {
   margin-bottom: 20px;
   margin-top: 20px;
 }
-
+/*
 .biljett summary {
   background: slateblue;
   color: white;
