@@ -27,7 +27,7 @@ body {
 .nav-ikon {
   width: 30px;
   padding: 12px 12px 0px 12px;
-  margin: 10px 0px 0px 0px;
+  margin: 15px 0px 0px 0px;
   filter: invert(53%) sepia(0%) saturate(49%) hue-rotate(223deg) brightness(95%) contrast(89%);
   transition: .5s;
 }
