@@ -12,10 +12,10 @@ h1, h2 {
   font-weight: 700;
 }
 
-label, p {
+/*label, p {
   font-size: 1.5em;
   padding: 4px;
-}
+}*/
 
 .main {
   width: 240px;
