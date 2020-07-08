@@ -68,6 +68,7 @@ myDIV, myUL, myDIV *, myUL * {
 
 /* Remove margins and padding from the list */
 ul {
+  list-style-type: none;
   margin: 0;
   padding: 0;
 }
