@@ -35,15 +35,6 @@ label, p {
   background: lightgray;
 }
 
-biljett-img {
-  width: 200px;
-  display: block;
-  margin-right: auto;
-  margin-left: auto;
-  margin-bottom: 20px;
-  margin-top: 20px;
-}
-
 .biljett summary {
   background: slateblue;
   color: white;
